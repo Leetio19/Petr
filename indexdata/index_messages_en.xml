@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Петр I и его эпоха]]></data>
+
+
+
+  <data name="en_pano28_title"><![CDATA[Улица]]></data>
+  <data name="en_spotpoint1448javascriptcalljsfunctioncall"><![CDATA[testing]]></data>
+
+
+  <data name="en_pano10_title"><![CDATA[1]]></data>
+  <data name="en_spotpoint1627_tooltip"><![CDATA[Открыть изображения]]></data>
+
+
+  <data name="en_pano27_title"><![CDATA[2]]></data>
+  <data name="en_spotpoint1601_tooltip"><![CDATA[Открыть изображения]]></data>
+  <data name="en_spotpoint1625_tooltip"><![CDATA[Открыть изображения]]></data>
+  <data name="en_spotpoint1626_tooltip"><![CDATA[Открыть изображения]]></data>
+
+
+  <data name="en_pano26_title"><![CDATA[3]]></data>
+  <data name="en_spotpoint1628_tooltip"><![CDATA[Открыть изображения]]></data>
+  <data name="en_spotpoint1629_tooltip"><![CDATA[Открыть изображения]]></data>
+  <data name="en_spotpoint1630_tooltip"><![CDATA[Открыть изображения]]></data>
+  <data name="en_spotpoint1631_tooltip"><![CDATA[Открыть изображения]]></data>
+
+
+  <data name="en_pano25_title"><![CDATA[4]]></data>
+  <data name="en_spotpoint1632_tooltip"><![CDATA[Открыть изображения]]></data>
+  <data name="en_spotpoint1633_tooltip"><![CDATA[Открыть изображения]]></data>
+  <data name="en_spotpoint1634_tooltip"><![CDATA[Открыть изображения]]></data>
+  <data name="en_spotpoint1635_tooltip"><![CDATA[Открыть изображения]]></data>
+
+
+  <data name="en_pano24_title"><![CDATA[5]]></data>
+  <data name="en_spotpoint1636_tooltip"><![CDATA[Открыть изображения]]></data>
+  <data name="en_spotpoint1637_tooltip"><![CDATA[Открыть изображения]]></data>
+  <data name="en_spotpoint1638_tooltip"><![CDATA[Открыть изображения]]></data>
+  <data name="en_spotpoint1639_tooltip"><![CDATA[Открыть изображения]]></data>
+
+
+  <data name="en_pano23_title"><![CDATA[6]]></data>
+  <data name="en_spotpoint1640_tooltip"><![CDATA[Открыть изображения]]></data>
+
+
+  <data name="en_pano22_title"><![CDATA[7]]></data>
+
+
+  <data name="en_pano21_title"><![CDATA[8]]></data>
+
+
+  <data name="en_pano20_title"><![CDATA[9]]></data>
+
+
+  <data name="en_pano19_title"><![CDATA[10]]></data>
+
+
+  <data name="en_pano18_title"><![CDATA[11]]></data>
+
+
+  <data name="en_pano17_title"><![CDATA[12]]></data>
+
+
+  <data name="en_pano16_title"><![CDATA[13]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[14]]></data>
+
+
+  <data name="en_pano15_title"><![CDATA[15]]></data>
+
+
+  <data name="en_pano1360_title"><![CDATA[16]]></data>
+
+
+  <data name="en_pano13_title"><![CDATA[17]]></data>
+
+
+  <data name="en_pano12_title"><![CDATA[18]]></data>
+
+
+
+
+
+
+  <data name="en_CirclesControlBarprevSceneTip"><![CDATA[Previous scene]]></data>
+  <data name="en_CirclesControlBarnextSceneTip"><![CDATA[Next scene]]></data>
+  <data name="en_CirclesControlBarzoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_CirclesControlBarzoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_CirclesControlBarmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_CirclesControlBarmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_CirclesControlBarmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="en_CirclesControlBarmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="en_CirclesControlBaropenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_CirclesControlBarcloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_CirclesControlBarautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_CirclesControlBarautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_CirclesControlBardisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_CirclesControlBarhideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_CirclesControlBardisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_CirclesControlBarhideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_CirclesControlBarctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="en_CirclesControlBarctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+  <data name="en_togglebuttonpanospecificfirsttooltip"><![CDATA[]]></data>
+  <data name="en_togglebuttonpanospecificsecondtooltip"><![CDATA[]]></data>
+  <data name="en_websiteViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_websiteViewerclose_text"><![CDATA[Close]]></data>
+  <data name="en_galleryplay_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallerynavprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallerynavnext_text"><![CDATA[Next]]></data>
+  <data name="en_galleryfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_galleryclose_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title0"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption0"><![CDATA[Радостный чиновной список 
+свадьбы царя 
+Алексея Михайловича 
+с Натальей Кирилловной Нарышкиной
+21–25 января, 7 февраля 1671
+Беловой экземпляр
+Бумага, чернила, твореное золото; скоропись<br>
+Российский государственный архив древних актов<br>
+Ф.135. Отд.IV. Рубр.  II. Д.29. л.19об. -20<br>
+Титульный лист украшен заставкой с растительным орнаментом в стиле московского барокко, выполненным твореным золотом и акварельными красками. Заголовок написан вязью. Титулы царя и царицы в тексте выполнены твореным золотом. Переплет — доски в малиновом бархате, с серебряными застежками. <br><hr><br>
+И генваря в 22 день з божиею помощию изволил великий государь царь и великий князь Алексей Михайлович всеа Великия и Малыя и Белыя Росии самодержец сочетатися законному браку с нареченною царевною Наталиею Кириловною. И велел государыню царевну Наталию Кириловну нарядить по своему государскому чину в платье, как государыне итти на место, в венец золотой з городы и з каменьем и з жемчюги.
+
+]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[Запись о рождении 30 мая и крещении 29 июня царевича Петра Алексеевича в разрядной книге, составленной для стольника Г. Н. Собакина<br>
+Не ранее 21 ноября 1672<br>
+Бумага, чернила; скоропись<br>
+Российский государственный архив древних актов<br>
+Ф.181. Кн.123. Л.65<br><hr><br>
+Крещение царевича Петра Алексеевича, по традиции, состоялось в Чудовом монастыре; восприемниками были его старший брат, царевич Федор Алексеевич, и тетка, царевна Ирина Михайловна.
+
+
+]]></data>
+  <data name="en_gallerypicture_title2"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption2"><![CDATA[Медаль «В память восшествия Петра I на престол в 1682 году» <br>
+Санкт-Петербургский монетный двор. Первая половина XIX в. <br>
+С. Ю. Юдин, И. Г. Вехтер<br>
+Недрагоценный металл; штамп<br>
+Государственный исторический музей<br>
+Аверс 93328/3220 КР ОН 713399<br>
+М-31987 <br>
+Реверс 93328/3219 КР ОН 713398<br>
+М-31986
+
+
+]]></data>
+  <data name="en_gallerypicture_title3"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption3"><![CDATA[Медаль «В память восшествия Петра I на престол в 1682 году» <br>
+Санкт-Петербургский монетный двор. Первая половина XIX в. <br>
+С. Ю. Юдин, И. Г. Вехтер<br>
+Недрагоценный металл; штамп<br>
+Государственный исторический музей<br>
+Аверс 93328/3220 КР ОН 713399<br>
+М-31987 <br>
+Реверс 93328/3219 КР ОН 713398<br>
+М-31986
+
+
+]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[Рецепт на сироп 
+и другие лекарства 
+царевичу Петру Алексеевичу, 
+выписанный придворным 
+лейб-медиком Л. А. Блюментростом<br>
+26 января 1682<br>
+Бумага, чернила<br>
+Автограф<br>
+На латинском языке<br>
+Российский государственный архив древних актов<br>
+Ф.143. Оп.2. Д.373. Л.159
+]]></data>
+  <data name="en_gallery1play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery1navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery1navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery1fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery1close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery2play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery2navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery2navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery2fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery2close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery3play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery3navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery3navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery3fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery3close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery4play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery4navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery4navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery4fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery4close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery5play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery5navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery5navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery5fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery5close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery6play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery6navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery6navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery6fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery6close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery7play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery7navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery7navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery7fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery7close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery8play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery8navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery8navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery8fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery8close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery9play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery9navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery9navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery9fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery9close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery10play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery10navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery10navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery10fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery10close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery11play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery11navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery11navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery11fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery11close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery12play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery12navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery12navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery12fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery12close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery13play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery13navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery13navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery13fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery13close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery14play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery14navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery14navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery14fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery14close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery15play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery15navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery15navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery15fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery15close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery16play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery16navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery16navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery16fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery16close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery17play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery17navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery17navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery17fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery17close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery18play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery18navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery18navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery18fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery18close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery19play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery19navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery19navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery19fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery19close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="en_gallery20play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery20navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery20navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery20fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery20close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption4"><![CDATA[]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>

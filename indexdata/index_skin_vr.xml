@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.19-pr16">
+
+    
+  <!-- Spot Style - Default Point Spot Style -->
+
+
+  <style name="IconDefaultPointSpotStyle"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint0.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle"
+         onout="onoutIconDefaultPointSpotStyle"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style 1 -->
+
+
+  <style name="IconDefaultPointSpotStyle1"
+         url="%FIRSTXML%/spots/hotspot_image_user_defaultpoint1.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle1"
+         onout="onoutIconDefaultPointSpotStyle1"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle1">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle1">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_1в -->
+
+
+  <style name="Icon1_1в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint3.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_1в"
+         onout="onoutIcon1_1в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_1в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_1в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_1с -->
+
+
+  <style name="Icon1_1с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint4.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_1с"
+         onout="onoutIcon1_1с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_1с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_1с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_2в -->
+
+
+  <style name="Icon1_2в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint5.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_2в"
+         onout="onoutIcon1_2в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_2в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_2в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_6в -->
+
+
+  <style name="Icon1_6в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint6.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_6в"
+         onout="onoutIcon1_6в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_6в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_6в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_2с -->
+
+
+  <style name="Icon1_2с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint7.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_2с"
+         onout="onoutIcon1_2с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_2с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_2с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_3в -->
+
+
+  <style name="Icon1_3в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint8.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_3в"
+         onout="onoutIcon1_3в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_3в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_3в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_3с -->
+
+
+  <style name="Icon1_3с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint9.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_3с"
+         onout="onoutIcon1_3с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_3с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_3с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_4в -->
+
+
+  <style name="Icon1_4в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint10.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_4в"
+         onout="onoutIcon1_4в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_4в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_4в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_4с -->
+
+
+  <style name="Icon1_4с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint11.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_4с"
+         onout="onoutIcon1_4с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_4с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_4с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_5в -->
+
+
+  <style name="Icon1_5в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint12.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_5в"
+         onout="onoutIcon1_5в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_5в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_5в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_5с -->
+
+
+  <style name="Icon1_5с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint13.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_5с"
+         onout="onoutIcon1_5с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_5с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_5с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_6с -->
+
+
+  <style name="Icon1_6с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint15.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_6с"
+         onout="onoutIcon1_6с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_6с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_6с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_7в -->
+
+
+  <style name="Icon1_7в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint16.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_7в"
+         onout="onoutIcon1_7в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_7в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_7в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_7с -->
+
+
+  <style name="Icon1_7с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint17.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_7с"
+         onout="onoutIcon1_7с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_7с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_7с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_8в -->
+
+
+  <style name="Icon1_8в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint18.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_8в"
+         onout="onoutIcon1_8в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_8в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_8в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_8с -->
+
+
+  <style name="Icon1_8с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint19.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_8с"
+         onout="onoutIcon1_8с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_8с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_8с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_9с -->
+
+
+  <style name="Icon1_9с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint20.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_9с"
+         onout="onoutIcon1_9с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_9с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_9с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_10с -->
+
+
+  <style name="Icon1_10с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint21.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_10с"
+         onout="onoutIcon1_10с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_10с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_10с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+<action name="viewControlMoveUp">
+	if(%1,
+		if(%2,
+			set(isfullvertical, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewvfov, panoview.vmax, panoview.vmin);
+				if (viewvfov == 180,
+					set(isfullvertical, true);
+				);
+			);
+			if(isfullvertical == false AND calc(view.vlookat-%2) LT view.vlookatmin,
+				moveto(get(view.hlookat), get(view.vlookatmin));
+			,
+				moveto(get(view.hlookat), calc(view.vlookat-%2));
+			);
+		,
+			set(vlookat_moveforce, -1);
+			delayedcall(0.1, viewControlMoveVertStop());
+		);
+	,
+		set(vlookat_moveforce, -1);
+	);
+</action>
+<action name="viewControlMoveDown">
+	if(%1,
+		if(%2,
+			set(isfullvertical, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewvfov, panoview.vmax, panoview.vmin);
+				if (viewvfov == 180,
+					set(isfullvertical, true);
+				);
+			);
+			if(sceneisfull360 == false AND calc(view.vlookat+%2) GT view.vlookatmax,
+				moveto(get(view.hlookat), get(view.vlookatmax));
+			,
+				moveto(get(view.hlookat), calc(view.vlookat+%2));
+			);
+		,
+			set(vlookat_moveforce, +1);
+			delayedcall(0.1, viewControlMoveVertStop());
+		);
+	,
+		set(vlookat_moveforce, +1);
+	);
+</action>
+<action name="viewControlMoveLeft">
+	if(%1,
+		if(%2,
+			set(isfullhorizontal, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewhfov, panoview.hmax, panoview.hmin);
+				if (viewhfov == 360,
+					set(isfullhorizontal, true);
+				);
+			);
+			if(isfullhorizontal == false AND calc(view.hlookat-%2) LT view.hlookatmin,
+				moveto(get(view.hlookatmin), get(view.vlookat));
+			,
+				moveto(calc(view.hlookat-%2), get(view.vlookat));
+			);
+		,
+			set(hlookat_moveforce, -1);
+			delayedcall(0.1, viewControlMoveHoriStop());
+		);
+	,
+		set(hlookat_moveforce, -1);
+	);
+</action>
+<action name="viewControlMoveRight">
+	if(%1,
+		if(%2,
+			set(isfullhorizontal, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewhfov, panoview.hmax, panoview.hmin);
+				if (viewhfov == 360,
+					set(isfullhorizontal, true);
+				);
+			);
+			if(isfullhorizontal == false AND calc(view.hlookat+%2) GT view.hlookatmax,
+				moveto(get(view.hlookatmax), get(view.vlookat));
+			,
+				moveto(calc(view.hlookat+%2), get(view.vlookat));
+			);
+		,
+			set(hlookat_moveforce, +1);
+			delayedcall(0.1, viewControlMoveHoriStop());
+			
+		);
+	,
+		set(hlookat_moveforce, +1);
+	);
+</action>
+<action name="viewControlMoveHoriStop">
+	set(hlookat_moveforce, 0);
+</action>
+<action name="viewControlMoveVertStop">
+	set(vlookat_moveforce, 0);
+</action>
+
+<action name="viewControlZoomIn">
+	if(%1,
+		if(%2,
+			if(%2 LT view.fovmin,
+				zoomto(get(view.fovmin));
+			,
+				if(%2 LT view.fov,
+					zoomto(%2);
+				);
+			);
+		,
+			set(fov_moveforce, -1);
+			delayedcall(0.1, viewControlZoomStop());
+		);
+	,
+		set(fov_moveforce, -1);
+	);
+</action>
+<action name="viewControlZoomOut">
+	if(%1,
+		if(%2,
+			if(%2 GT view.fovmax,
+				zoomto(get(view.fovmax));
+			,
+				if(%2 GT view.fov,
+					zoomto(%2);
+				);
+			);
+		,
+			set(fov_moveforce, +1);
+			delayedcall(0.1, viewControlZoomStop());
+		);
+	,
+		set(fov_moveforce, +1);
+	);
+</action>
+<action name="viewControlZoomStop">
+	set(fov_moveforce, 0);
+</action>
+
+  <!-- Hide / Show Controls -->
+  <action name="hideTourControls">set(tour_displaycontrols, false);events.dispatch(hidetourcontrols);</action>
+  <action name="showTourControls">set(tour_displaycontrols, true); events.dispatch(showtourcontrols);</action>
+
+
+  <!-- Fullscreen Management -->
+  <action name="exitFullScreen" devices="fullscreensupport">set(tour_fullscreen,false);js(setFullscreen(false));</action>
+  <action name="enterFullScreen" devices="fullscreensupport">set(tour_fullscreen,true);js(setFullscreen(true));</action>
+  <action name="switchFullScreen">if(tour_fullscreen,exitFullScreen();,enterFullScreen(););</action>
+
+  
+  <events name="krpanoExitFullscreenEvent"
+    onexitfullscreen="if(tour_fullscreen,exitFullScreenChangeEvent(););"
+    keep="true" />
+
+  <action name="exitFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,false);events.dispatch(onexitfullscreen);</action>
+  <action name="enterFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,true);events.dispatch(onenterfullscreen);</action>
+  <action name="exitFullScreenFallback">set(fullscreen,false);</action>
+  <action name="enterFullScreenFallback">set(fullscreen,true);</action>
+  
+  <action name="resizeFullScreenEvent">delayedcall(0,updatescreen(););</action>
+
+  <!-- Sounds Management -->
+
+  <action name="play3DLocalSounds">
+    if (xml.scene, if (scene[get(xml.scene)].haslocalsounds, playpanolocalsounds();););
+  </action>
+  <action name="stop3DLocalSounds">
+    if (xml.scene, if (scene[get(xml.scene)].haslocalsounds, stoppanolocalsounds();););
+  </action>
+  <action name="resume3DLocalSounds">
+    if (xml.scene, if (scene[get(xml.scene)].haslocalsounds, 
+      set(kill3dSoundOnResume, true);
+      if(layer[displayedStandardVideo],
+      if(layer[displayedStandardVideo].pausebgsound,
+      if(tour_current_played_video,
+        set(kill3dSoundOnResume, false);
+      );););
+      if(layer[webvideodisplay_player],
+      if(layer[webvideodisplay_player].pausebgsound,
+      if(tour_current_played_web_video,
+        set(kill3dSoundOnResume, false);
+      );););
+      if(tour_current_played_sound_pausesound,
+      if(tour_current_played_sound,
+        set(kill3dSoundOnResume, false);
+      ););
+      if(kill3dSoundOnResume,
+        resumepanolocalsounds();
+      );
+    ););
+  </action>
+  <action name="pause3DLocalSounds">
+    if (xml.scene, if (scene[get(xml.scene)].haslocalsounds, pausepanolocalsounds();););
+  </action>
+  <action name="set3DLocalSoundsVolume">
+    if (xml.scene, if (scene[get(xml.scene)].haslocalsounds, setpanolocalsoundsvolume();););
+  </action>
+  <action name="playTourSounds">
+    set(tour_soundson, true);events.dispatch(playtoursoundsevent);
+    resumeTourSoundsActions(true,true,true,true,true);
+  </action>
+  <action name="stopTourSounds">
+    set(tour_soundson, false);events.dispatch(stoptoursoundsevent);
+    pauseTourSoundsActions(true,true,true,true,true);
+  </action>
+  <action name="setTourSoundsVolume">
+    set(tour_soundsvolume, %1);events.dispatch(changetoursoundsevent);
+    set3DLocalSoundsVolume();
+  </action>
+  <action name="playTourSoundsActions">
+    if(%1,
+        play3DLocalSounds();
+    );
+  </action>
+  <action name="stopTourSoundsActions">
+    if(%1,
+      stop3DLocalSounds();
+    );
+    if(%3,
+      stopVideoActionsSounds();
+    );
+  </action>
+  <action name="resumeTourSoundsActions">
+    if(%1,
+        resume3DLocalSounds();
+    );
+    if(%3,
+      resumeVideoActionsSounds();
+    );
+  </action>
+  <action name="pauseTourSoundsActions">
+    if(%1,
+      pause3DLocalSounds();
+    );
+    if(%3,
+      pauseVideoActionsSounds();
+    );
+  </action>
+  <action name="stopVideoActionsSounds">
+    if(tour_current_played_video,
+      if(layer[displayedStandardVideo],
+        layer[displayedStandardVideo].stop();
+        removelayer(displayedStandardVideo);
+        if(layer[displayedStandardVideoOverlayButton], removelayer(displayedStandardVideoOverlayButton); );
+        if(layer[displayedStandardVideoOverlay], removelayer(displayedStandardVideoOverlay); );
+        delete(tour_current_played_video);
+        set(tour_current_played_video_state, 0);
+      );
+    );
+    if(tour_current_played_web_video,
+      displayWebVideoObjectClose();
+    );
+  </action>
+  <action name="resumeVideoActionsSounds">
+    if(tour_current_played_video,
+      set(resumeVideoActionsVerification, true);
+      if(tour_current_played_sound,
+        if(tour_current_played_video_state LT tour_current_played_sound_state,
+          set(resumeVideoActionsVerification, false);
+        );
+      );
+      if(resumeVideoActionsVerification,
+        if (tour_soundson,
+          if(device.flash OR (device.webgl AND !device.ios),
+            div(volume, tour_soundsvolume, 100);
+            set(layer[displayedStandardVideo].volume, get(volume));
+          ,
+            ifnot(device.ios,
+              js(kpanotour.Sounds.startVideosSounds(get(volume)));
+            ,
+              if(tour_soundsvolume GT 0,
+                set(layer[displayedStandardVideo].muted, false);
+              ,
+                set(layer[displayedStandardVideo].muted, true);
+              );
+            );
+          );
+        ,
+          if(device.flash OR (device.webgl AND !device.ios),
+            set(layer[displayedStandardVideo].volume, 0);
+          ,
+            ifnot(device.ios,
+              js(kpanotour.Sounds.stopVideosSounds());
+            ,
+              set(layer[displayedStandardVideo].muted, true);
+            );
+          );
+        );
+      );
+    );
+  </action>
+  <action name="pauseVideoActionsSounds">
+    if(tour_current_played_video,
+      if(device.flash OR (device.webgl AND !device.ios),
+        set(layer[displayedStandardVideo].volume, 0);
+      ,
+        ifnot(device.ios,
+          js(kpanotour.Sounds.stopVideosSounds());
+        ,
+          set(layer[displayedStandardVideo].muted, true);
+        );
+      );
+    );
+  </action>
+
+</krpano>

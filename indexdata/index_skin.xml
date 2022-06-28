@@ -1,0 +1,4967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.19-pr16">
+
+    
+  <!-- Spot Style - Default Point Spot Style -->
+
+
+  <style name="IconDefaultPointSpotStyle"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint0.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle"
+         onout="onoutIconDefaultPointSpotStyle"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style 1 -->
+
+
+  <style name="IconDefaultPointSpotStyle1"
+         url="%FIRSTXML%/spots/hotspot_image_user_defaultpoint1.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultPointSpotStyle1"
+         onout="onoutIconDefaultPointSpotStyle1"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle1">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle1">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_1в -->
+
+
+  <style name="Icon1_1в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint3.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_1в"
+         onout="onoutIcon1_1в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_1в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_1в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_1с -->
+
+
+  <style name="Icon1_1с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint4.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_1с"
+         onout="onoutIcon1_1с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_1с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_1с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_2в -->
+
+
+  <style name="Icon1_2в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint5.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_2в"
+         onout="onoutIcon1_2в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_2в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_2в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_6в -->
+
+
+  <style name="Icon1_6в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint6.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_6в"
+         onout="onoutIcon1_6в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_6в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_6в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_2с -->
+
+
+  <style name="Icon1_2с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint7.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_2с"
+         onout="onoutIcon1_2с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_2с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_2с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_3в -->
+
+
+  <style name="Icon1_3в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint8.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_3в"
+         onout="onoutIcon1_3в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_3в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_3в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_3с -->
+
+
+  <style name="Icon1_3с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint9.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_3с"
+         onout="onoutIcon1_3с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_3с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_3с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_4в -->
+
+
+  <style name="Icon1_4в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint10.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_4в"
+         onout="onoutIcon1_4в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_4в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_4в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_4с -->
+
+
+  <style name="Icon1_4с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint11.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_4с"
+         onout="onoutIcon1_4с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_4с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_4с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_5в -->
+
+
+  <style name="Icon1_5в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint12.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_5в"
+         onout="onoutIcon1_5в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_5в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_5в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_5с -->
+
+
+  <style name="Icon1_5с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint13.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_5с"
+         onout="onoutIcon1_5с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_5с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_5с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_6с -->
+
+
+  <style name="Icon1_6с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint15.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_6с"
+         onout="onoutIcon1_6с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_6с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_6с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_7в -->
+
+
+  <style name="Icon1_7в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint16.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_7в"
+         onout="onoutIcon1_7в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_7в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_7в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_7с -->
+
+
+  <style name="Icon1_7с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint17.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_7с"
+         onout="onoutIcon1_7с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_7с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_7с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_8в -->
+
+
+  <style name="Icon1_8в"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint18.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_8в"
+         onout="onoutIcon1_8в"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_8в">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_8в">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_8с -->
+
+
+  <style name="Icon1_8с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint19.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_8с"
+         onout="onoutIcon1_8с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_8с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_8с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_9с -->
+
+
+  <style name="Icon1_9с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint20.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_9с"
+         onout="onoutIcon1_9с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_9с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_9с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1_10с -->
+
+
+  <style name="Icon1_10с"
+         url="%FIRSTXML%/spots/hotspot_image_sequence_user_defaultpoint21.png"
+         visible="false"
+         frame="0"
+         lastframe="12"
+         framewidth="85"
+         frameheight="85"
+         stopspotsequence="false"
+         crop="0|0|85|85"
+         edge="center"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIcon1_10с"
+         onout="onoutIcon1_10с"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIcon1_10с">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIcon1_10с">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+<!-- ********** -->
+<!-- List of Panoramas -->
+<!-- id : panoramalist -->
+<!-- ********** -->
+
+
+<style name="panoramaliststyleselectedpanorama" 
+    css="
+text-align:right;
+color:#000000;
+font-family:Arial;
+font-weight:bold;
+font-size:16px;"
+  />
+
+  <style name="panoramaliststyleitempanoramacolor"
+         height="26"
+         type="text"
+         alpha="1"
+         css="
+              text-align:right;
+              color:#ffffff;
+              font-family:Arial;
+              font-weight:bold;
+              font-size:16px;
+             " />
+
+  <style name="panoramaliststyleitempanorama"
+         align="topright"
+         interactivecontent="false"
+         bg="false"
+         handcursor="true"
+         x="0"
+
+         width="100%"
+
+  />
+
+  <layer keep="true"
+         name="panoramalistbg"
+         type="image"
+         url="%FIRSTXML%/graphics/panoramalisttext/background.png"
+         scale9grid="10|10|80|80"
+         zorder="1"
+         visible="false"
+         width="100"
+
+         height="494"
+
+         align="topright"
+         x="0" y="0"
+         >
+
+    <layer name="panoramalistpanopano28"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano28_title);escape(html);"  
+           onclick="mainloadscene(pano28);" 
+           y="0"/>
+    <layer name="panoramalistpanopano10"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano10_title);escape(html);"  
+           onclick="mainloadscene(pano10);" 
+           y="26"/>
+    <layer name="panoramalistpanopano27"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano27_title);escape(html);"  
+           onclick="mainloadscene(pano27);" 
+           y="52"/>
+    <layer name="panoramalistpanopano26"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano26_title);escape(html);"  
+           onclick="mainloadscene(pano26);" 
+           y="78"/>
+    <layer name="panoramalistpanopano25"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano25_title);escape(html);"  
+           onclick="mainloadscene(pano25);" 
+           y="104"/>
+    <layer name="panoramalistpanopano24"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano24_title);escape(html);"  
+           onclick="mainloadscene(pano24);" 
+           y="130"/>
+    <layer name="panoramalistpanopano23"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano23_title);escape(html);"  
+           onclick="mainloadscene(pano23);" 
+           y="156"/>
+    <layer name="panoramalistpanopano22"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano22_title);escape(html);"  
+           onclick="mainloadscene(pano22);" 
+           y="182"/>
+    <layer name="panoramalistpanopano21"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano21_title);escape(html);"  
+           onclick="mainloadscene(pano21);" 
+           y="208"/>
+    <layer name="panoramalistpanopano20"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano20_title);escape(html);"  
+           onclick="mainloadscene(pano20);" 
+           y="234"/>
+    <layer name="panoramalistpanopano19"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano19_title);escape(html);"  
+           onclick="mainloadscene(pano19);" 
+           y="260"/>
+    <layer name="panoramalistpanopano18"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano18_title);escape(html);"  
+           onclick="mainloadscene(pano18);" 
+           y="286"/>
+    <layer name="panoramalistpanopano17"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano17_title);escape(html);"  
+           onclick="mainloadscene(pano17);" 
+           y="312"/>
+    <layer name="panoramalistpanopano16"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano16_title);escape(html);"  
+           onclick="mainloadscene(pano16);" 
+           y="338"/>
+    <layer name="panoramalistpanopano11"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano11_title);escape(html);"  
+           onclick="mainloadscene(pano11);" 
+           y="364"/>
+    <layer name="panoramalistpanopano15"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano15_title);escape(html);"  
+           onclick="mainloadscene(pano15);" 
+           y="390"/>
+    <layer name="panoramalistpanopano1360"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano1360_title);escape(html);"  
+           onclick="mainloadscene(pano1360);" 
+           y="416"/>
+    <layer name="panoramalistpanopano13"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano13_title);escape(html);"  
+           onclick="mainloadscene(pano13);" 
+           y="442"/>
+    <layer name="panoramalistpanopano12"
+           style="panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor"
+           onloaded="getmessage(html, pano12_title);escape(html);"  
+           onclick="mainloadscene(pano12);" 
+           y="468"/>
+
+  </layer>
+
+
+
+
+
+
+  <action name="panoramalistUpdateLanguage">
+    if(layer[panoramalistpanopano28],
+      getmessage(panoHtml, pano28_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano28].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano10],
+      getmessage(panoHtml, pano10_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano10].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano27],
+      getmessage(panoHtml, pano27_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano27].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano26],
+      getmessage(panoHtml, pano26_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano26].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano25],
+      getmessage(panoHtml, pano25_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano25].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano24],
+      getmessage(panoHtml, pano24_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano24].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano23],
+      getmessage(panoHtml, pano23_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano23].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano22],
+      getmessage(panoHtml, pano22_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano22].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano21],
+      getmessage(panoHtml, pano21_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano21].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano20],
+      getmessage(panoHtml, pano20_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano20].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano19],
+      getmessage(panoHtml, pano19_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano19].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano18],
+      getmessage(panoHtml, pano18_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano18].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano17],
+      getmessage(panoHtml, pano17_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano17].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano16],
+      getmessage(panoHtml, pano16_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano16].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano11],
+      getmessage(panoHtml, pano11_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano11].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano15],
+      getmessage(panoHtml, pano15_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano15].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano1360],
+      getmessage(panoHtml, pano1360_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano1360].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano13],
+      getmessage(panoHtml, pano13_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano13].html, get(panoHtml));
+    );
+    if(layer[panoramalistpanopano12],
+      getmessage(panoHtml, pano12_title);escape(get(panoHtml));
+      set(layer[panoramalistpanopano12].html, get(panoHtml));
+    ); 
+  </action>
+
+  <events name="panoramalistevents" 
+    onTourStart="showpanoramalist();"
+    hidetourcontrols="hidepanoramalist();"
+    showtourcontrols="showpanoramalist();"
+    onnewpano="selectItempanoramalist();"
+    changetourlanguage="panoramalistUpdateLanguage();"
+    keep="true"/>
+
+<action name="selectItempanoramalist">
+	
+	for(set(ipanoramalist,0), ipanoramalist LT layer.count, inc(ipanoramalist),
+		if(layer[get(ipanoramalist)].parent == panoramalistbg,
+			
+			if(layer[get(ipanoramalist)].style == "panoramaliststyleitempanorama|panoramaliststyleitempanoramacolor",
+				txtadd(currentLayerNamepanoramalist, panoramalist, pano, get(xml.scene));
+			);
+			
+			if(layer[get(ipanoramalist)].name == currentLayerNamepanoramalist,
+				if(layer[get(ipanoramalist)].style == "panoramaliststyleitemgroup|panoramaliststyleitemgroupcolor",
+					set(layer[get(ipanoramalist)].css, get(style[panoramaliststyleselectedgroup].css));
+				,
+					set(layer[get(ipanoramalist)].css, get(style[panoramaliststyleselectedpanorama].css));
+				);
+			,
+				
+				indexoftxt(dest, layer[get(ipanoramalist)].name, group);
+				if(dest LT 0,
+					
+					if(layer[get(ipanoramalist)].style == "panoramaliststyleitemgroup|panoramaliststyleitemgroupcolor",
+						set(layer[get(ipanoramalist)].css, get(style[panoramaliststyleitemgroupcolor].css));
+					,
+						set(layer[get(ipanoramalist)].css, get(style[panoramaliststyleitempanoramacolor].css));
+					);
+				);
+			);
+			delete(currentLayerNamepanoramalist);
+		);
+	);
+</action>
+
+  <action name="hidepanoramalist">
+    set(layer[panoramalistbg].visible, false);
+  </action>
+  <action name="showpanoramalist">
+    set(layer[panoramalistbg].visible, true);
+  </action>
+
+
+<!-- ********** -->
+<!-- Circles Control Bar -->
+<!-- id : CirclesControlBar -->
+<!-- ********** -->
+
+  <krpano CirclesControlBarbarbuilt="false" CirclesControlBarbackgroundwidthwhenclosed="0" CirclesControlBarbackgroundwidthwhenopened="0" CirclesControlBarIsOpened="false" />
+  <events name="CirclesControlBarevents" 
+    onxmlcomplete="CirclesControlBarbuildMenuBar();" 
+
+
+    keep="true" />
+
+
+
+  <action name="CirclesControlBarbuildMenuBar">
+    ifnot (CirclesControlBarbarbuilt, CirclesControlBarbuildMenu(); set(CirclesControlBarbarbuilt, true););
+  </action>
+
+  <style name="CirclesControlBar_btn_style"
+         keep="true"
+         edge="right"
+         align="right"
+         x="0" y="0"
+         width="40" height="40"
+         crop="0|0|60|60"
+         onovercrop="0|60|60|60"
+         ondowncrop="0|120|60|60"
+         onhover="showTooltip('plugin', CirclesControlBarmenuTooltipStyle, bottom);"
+         onout="hideTooltip();"
+         />
+  <style name="CirclesControlBar_btn_style_off"
+         keep="true"
+         edge="right"
+         align="right"
+         x="0" y="0"
+         width="40" height="40"
+         onhover="showTooltip('plugin', CirclesControlBarmenuTooltipStyle, bottom);"
+         onout="hideTooltip();"
+         />
+
+  <layer name="CirclesControlBar_menu_bg"
+         keep="true"
+         type="container"
+         zorder="2"
+         width="40"
+         height="40"
+         align="bottom"
+         x="0" y="10"
+         maskchildren="true"
+         rotate="0"
+         visible="false"
+         >
+
+
+    <layer name="CirclesControlBarbtn_ctrlmode_move_to"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_move_to.png"
+            style="CirclesControlBar_btn_style"
+            tooltip="CirclesControlBarctrlmodeMoveTip"
+            onclick="setControlModeMoveTo();
+"
+            visible="false"
+            devices="desktop"
+            />
+    <layer name="CirclesControlBarbtn_ctrlmode_drag_to"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_drag_to.png"
+            style="CirclesControlBar_btn_style"
+            tooltip="CirclesControlBarctrlmodeDragTip"
+            onclick="setControlModeDragTo();
+"
+            visible="false"
+            devices="desktop"
+            />
+
+    <layer name="CirclesControlBarbtn_in"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_zoom_in.png"
+            ondown="viewControlZoomIn(false);"
+            onup="viewControlZoomStop();
+"
+            style="CirclesControlBar_btn_style"
+            visible="false"
+            tooltip="CirclesControlBarzoomInTip"
+            devices="desktop"
+            />
+    <layer name="CirclesControlBarbtn_out"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_zoom_out.png"
+            ondown="viewControlZoomOut(false);
+"
+            onup="viewControlZoomStop();
+"
+            style="CirclesControlBar_btn_style"
+            visible="false"
+            tooltip="CirclesControlBarzoomOutTip"
+            devices="desktop"
+            />
+
+    <layer name="CirclesControlBarbtn_left"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_move_left.png"
+            ondown="viewControlMoveLeft(false);
+"
+            onup="viewControlMoveHoriStop();
+"
+            style="CirclesControlBar_btn_style"
+            visible="false"
+            tooltip="CirclesControlBarmoveLeftTip"
+            devices="desktop"
+            />
+    <layer name="CirclesControlBarbtn_right"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_move_right.png"
+            ondown="viewControlMoveRight(false);
+"
+            onup="viewControlMoveHoriStop();
+"
+            style="CirclesControlBar_btn_style"
+            visible="false"
+            tooltip="CirclesControlBarmoveRightTip"
+            devices="desktop"
+            />
+
+    <layer name="CirclesControlBarbtn_up"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_move_up.png"
+            ondown="viewControlMoveUp(false);
+"
+            onup="viewControlMoveVertStop();
+"
+            style="CirclesControlBar_btn_style"
+            visible="false"
+            tooltip="CirclesControlBarmoveUpTip"
+            devices="desktop"
+            />
+    <layer name="CirclesControlBarbtn_down"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_move_down.png"
+            ondown="viewControlMoveDown(false);
+"
+            onup="viewControlMoveVertStop();
+"
+            style="CirclesControlBar_btn_style"
+            visible="false"
+            tooltip="CirclesControlBarmoveDownTip"
+            devices="desktop"
+            />
+
+
+
+    <layer name="CirclesControlBarbtn_prev_pano"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_previous_scene.png"
+            onclick="loadPreviousScene();
+"
+            style="CirclesControlBar_btn_style"
+            tooltip="CirclesControlBarprevSceneTip"
+            visible="false"
+            />
+    <layer name="CirclesControlBarbtn_next_pano"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_next_scene.png"
+            onclick="loadNextScene();
+"
+            style="CirclesControlBar_btn_style"
+            tooltip="CirclesControlBarnextSceneTip"
+            visible="false"
+            />
+
+
+
+    <layer name="CirclesControlBarbtn_openfs"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_enter_fs.png"
+            onclick="enterFullscreen();
+"
+            style="CirclesControlBar_btn_style"
+            visible="false"
+            devices="fullscreensupport"
+            tooltip="CirclesControlBaropenFsTip"
+            />
+    <layer name="CirclesControlBarbtn_closefs"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_close_fs.png"
+            onclick="exitFullscreen();
+"
+            style="CirclesControlBar_btn_style"
+            visible="false"
+            devices="fullscreensupport"
+            tooltip="CirclesControlBarcloseFsTip"
+            />
+
+    <layer name="CirclesControlBarbtn_autorotate_on"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_start_autorotation.png"
+            onclick="resumeautorotation();
+"
+            style="CirclesControlBar_btn_style"
+            visible="false"
+            tooltip="CirclesControlBarautorotateOnTip"
+            />
+    <layer name="CirclesControlBarbtn_autorotate_off"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_stop_autorotation.png"
+            onclick="pauseautorotation();
+"
+            style="CirclesControlBar_btn_style"
+            visible="false"
+            tooltip="CirclesControlBarautorotateOffTip"
+            />
+
+
+
+    <layer name="CirclesControlBarbtn_display_help"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_help.png"
+            onclick="CirclesControlBardisplayHelp();"
+            style="CirclesControlBar_btn_style"
+            devices="desktop"
+            visible="false"
+            tooltip="CirclesControlBardisplayHelpTip"
+            />
+    <layer name="CirclesControlBarbtn_close_help"
+            url="%FIRSTXML%/graphics/circlescontrolbar/btn_help.png"
+            onclick="CirclesControlBarcloseHelp();"
+            style="CirclesControlBar_btn_style"
+            visible="false"
+            devices="desktop"
+            tooltip="CirclesControlBarhideHelpTip"
+            />
+
+
+
+    <layer name="CirclesControlBarbtn_hidecontrols"
+           url="%FIRSTXML%/graphics/circlescontrolbar/btn_hide_controls.png"
+           style="CirclesControlBar_btn_style"
+           onclick="CirclesControlBarhideMenuControls();hideTourControls();
+"
+           visible="false"
+           tooltip="CirclesControlBarhideControlsTip"
+           />
+    <layer name="CirclesControlBarbtn_showcontrols"
+           url="%FIRSTXML%/graphics/circlescontrolbar/btn_show_controls.png"
+           style="CirclesControlBar_btn_style"
+           onclick="CirclesControlBarshowMenuControls();showTourControls();
+"
+           tooltip="CirclesControlBardisplayControlsTip"
+           visible="false"
+           />
+ </layer>
+
+
+
+
+
+	<events name="CirclesControlBarcontrolmodechangedevent" 
+		oncontrolmodechanged="CirclesControlBarupdateControlModeButtons();" 
+		keep="true" />
+	<action name="CirclesControlBarHideControlModeButtons">
+		set(layer[CirclesControlBarbtn_ctrlmode_move_to].visible, false);
+		set(layer[CirclesControlBarbtn_ctrlmode_drag_to].visible, false);
+	</action>
+	<action name="CirclesControlBarShowControlModeButtons">
+		if (tour_controlmodemousetype == "moveto",
+			set(layer[CirclesControlBarbtn_ctrlmode_drag_to].visible, true);
+			set(layer[CirclesControlBarbtn_ctrlmode_move_to].visible, false);
+		,
+			set(layer[CirclesControlBarbtn_ctrlmode_move_to].visible, true);
+			set(layer[CirclesControlBarbtn_ctrlmode_drag_to].visible, false);
+		);
+	</action>
+	<action name="CirclesControlBarupdateControlModeButtons">
+	if (device.desktop,
+		if (CirclesControlBarIsOpened,
+			CirclesControlBarShowControlModeButtons();
+		,
+			CirclesControlBarHideControlModeButtons();
+		);
+	,
+		CirclesControlBarHideControlModeButtons();
+	);
+	</action>
+
+
+  <action name="CirclesControlBarhideMenuControls">
+    set(CirclesControlBarIsOpened, false);
+    set(layer[CirclesControlBarbtn_hidecontrols].visible, false);
+    set(layer[CirclesControlBarbtn_showcontrols].visible, true);
+if (scene.count GT 1,
+	set(layer[CirclesControlBarbtn_next_pano].visible, false);
+	set(layer[CirclesControlBarbtn_prev_pano].visible, false);
+);
+
+
+if (device.desktop,
+	set(layer[CirclesControlBarbtn_in].visible, false);
+	set(layer[CirclesControlBarbtn_out].visible, false);
+);
+if (device.desktop,
+	set(layer[CirclesControlBarbtn_up].visible, false);
+	set(layer[CirclesControlBarbtn_down].visible, false);
+);
+if (device.desktop,
+	set(layer[CirclesControlBarbtn_left].visible, false);
+	set(layer[CirclesControlBarbtn_right].visible, false);
+);
+	CirclesControlBarupdateFullscreenButtons();
+	CirclesControlBarupdateHelpButtons();
+
+
+	CirclesControlBarupdateAutorotationButtons();
+
+
+	CirclesControlBarupdateControlModeButtons();
+
+
+
+
+	set(layer[CirclesControlBar_menu_bg].width, get(CirclesControlBarbackgroundwidthwhenclosed));
+
+	set(layer[CirclesControlBar_menu_bg].visible, true);
+  </action>
+  <action name="CirclesControlBarshowMenuControls">
+    set(CirclesControlBarIsOpened, true);
+    set(layer[CirclesControlBarbtn_hidecontrols].visible, true);
+    set(layer[CirclesControlBarbtn_showcontrols].visible, false);
+	set(layer[CirclesControlBar_menu_bg].visible, true);
+if (scene.count GT 1,
+	set(layer[CirclesControlBarbtn_next_pano].visible, true);
+	set(layer[CirclesControlBarbtn_prev_pano].visible, true);
+);
+
+
+if (device.desktop,
+	set(layer[CirclesControlBarbtn_in].visible, true);
+	set(layer[CirclesControlBarbtn_out].visible, true);
+);
+if (device.desktop,
+	set(layer[CirclesControlBarbtn_up].visible, true);
+	set(layer[CirclesControlBarbtn_down].visible, true);
+);
+if (device.desktop,
+	set(layer[CirclesControlBarbtn_left].visible, true);
+	set(layer[CirclesControlBarbtn_right].visible, true);
+);
+	CirclesControlBarupdateFullscreenButtons();
+	CirclesControlBarupdateHelpButtons();
+
+
+	CirclesControlBarupdateAutorotationButtons();
+
+
+	CirclesControlBarupdateControlModeButtons();
+
+
+
+    set(layer[CirclesControlBar_menu_bg].width, get(CirclesControlBarbackgroundwidthwhenopened));
+  </action>
+
+  <layer name="CirclesControlBarhelpScreenBg"
+         align="center"
+         keep="true"
+         onclick="CirclesControlBarcloseHelp();"
+         url="%FIRSTXML%/graphics/circlescontrolbar/help_screen_bg.png"
+         visible="false"
+         rotate="-90"
+         height="50%"
+         width="prop"
+         zorder="97"
+         x="100%" />
+  <layer name="CirclesControlBarhelpScreenFg"
+         align="center"
+         keep="true"
+         onclick="CirclesControlBarcloseHelp();"
+         url="%FIRSTXML%/graphics/circlescontrolbar/help_screen_fg.png"
+         height="50%"
+         width="prop"
+         visible="false"
+         rotate="90"
+         zorder="98"
+         x="-100%"
+         displayed="false" />
+  <action name="CirclesControlBardisplayHelp">
+  if (device.desktop,
+    set(layer[CirclesControlBarhelpScreenFg].displayed,true);
+    set(layer[CirclesControlBarhelpScreenBg].visible,true);
+    set(layer[CirclesControlBarhelpScreenFg].visible,true);
+    tween(layer[CirclesControlBarhelpScreenFg].rotate,0, 1);
+    tween(layer[CirclesControlBarhelpScreenFg].x,0, 1);
+    tween(layer[CirclesControlBarhelpScreenBg].rotate,0, 1);
+    tween(layer[CirclesControlBarhelpScreenBg].x,0, 1);
+    CirclesControlBarupdateHelpButtons();
+  );
+  </action>
+  <action name="CirclesControlBarcloseHelp">
+  if (device.desktop,
+    set(layer[CirclesControlBarhelpScreenFg].displayed,false);
+    tween(layer[CirclesControlBarhelpScreenFg].rotate,  90, 1, easeOutQuad, set(layer[CirclesControlBarhelpScreenFg].visible,false););
+    tween(layer[CirclesControlBarhelpScreenFg].x, -100%, 1);
+    tween(layer[CirclesControlBarhelpScreenBg].rotate, -90, 1, easeOutQuad, set(layer[CirclesControlBarhelpScreenBg].visible,false););
+    tween(layer[CirclesControlBarhelpScreenBg].x, 100%, 1);
+    CirclesControlBarupdateHelpButtons();
+  );
+  </action>
+	<action name="CirclesControlBarHideHelpButtons">
+		set(layer[CirclesControlBarbtn_display_help].visible, false);
+		set(layer[CirclesControlBarbtn_close_help].visible, false);
+	</action>
+	<action name="CirclesControlBarShowHelpButtons">
+		if (layer[CirclesControlBarhelpScreenFg].displayed,
+			set(layer[CirclesControlBarbtn_close_help].visible, true);
+			set(layer[CirclesControlBarbtn_display_help].visible, false);
+		,
+			set(layer[CirclesControlBarbtn_display_help].visible, true);
+			set(layer[CirclesControlBarbtn_close_help].visible, false);
+		);
+	</action>
+	<action name="CirclesControlBarupdateHelpButtons">
+	if (device.desktop,
+		if (CirclesControlBarIsOpened,
+			CirclesControlBarShowHelpButtons();
+		,
+			CirclesControlBarHideHelpButtons();
+		);
+	,
+		CirclesControlBarHideHelpButtons();
+	);
+	</action>
+
+
+
+
+  <events name="CirclesControlBarmenufullscreenchangeevent"
+          onenterfullscreen="CirclesControlBarupdateFullscreenButtons();"
+          onexitfullscreen="CirclesControlBarupdateFullscreenButtons();"
+          keep="true"/>
+	<action name="CirclesControlBarHideFullscreenButtons">
+		set(layer[CirclesControlBarbtn_openfs].visible , false);
+		set(layer[CirclesControlBarbtn_closefs].visible, false);
+	</action>
+	<action name="CirclesControlBarShowFullscreenButtons">
+		if (device.fullscreensupport,
+			if(tour_fullscreen,
+				set(layer[CirclesControlBarbtn_openfs].visible , false);
+				set(layer[CirclesControlBarbtn_closefs].visible, true);
+			,
+				set(layer[CirclesControlBarbtn_openfs].visible ,true);
+				set(layer[CirclesControlBarbtn_closefs].visible,false);
+			);
+		,
+			CirclesControlBarHideFullscreenButtons();
+		);
+	</action>
+	<action name="CirclesControlBarupdateFullscreenButtons">
+		if (CirclesControlBarIsOpened,
+			CirclesControlBarShowFullscreenButtons();
+		,
+			CirclesControlBarHideFullscreenButtons();
+		);
+	</action>
+
+	<events name="CirclesControlBarAutorotationEvents"
+		onstartautorotation="CirclesControlBarupdateAutorotationButtons();"
+		onresumeautorotation="CirclesControlBarupdateAutorotationButtons();"
+		onstopautorotation="CirclesControlBarupdateAutorotationButtons();"
+		onpauseautorotation="CirclesControlBarupdateAutorotationButtons();"
+		keep="true"/>
+	<action name="CirclesControlBarHideAutorotationButtons">
+		set(layer[CirclesControlBarbtn_autorotate_off].visible, false);
+		set(layer[CirclesControlBarbtn_autorotate_on].visible , false);
+	</action>
+	<action name="CirclesControlBarShowAutorotationButtons">
+		if(autorotate.enabled == false,
+			set(layer[CirclesControlBarbtn_autorotate_off].visible, false);
+			set(layer[CirclesControlBarbtn_autorotate_on].visible , true);
+		,
+			set(layer[CirclesControlBarbtn_autorotate_off].visible, true);
+			set(layer[CirclesControlBarbtn_autorotate_on].visible , false);
+		);
+	</action>
+	<action name="CirclesControlBarupdateAutorotationButtons">
+		if (CirclesControlBarIsOpened,
+			CirclesControlBarShowAutorotationButtons();
+		,
+			CirclesControlBarHideAutorotationButtons();
+		);
+	</action>
+
+
+
+<layer name="CirclesControlBarmenuTooltipStyle"
+	keep="true"
+	enabled="false"
+	capture="false"
+	url="%FIRSTXML%/graphics/textfield.swf"
+	align="center"
+	background="false"
+	border="false"
+	css="color:#000000;font-family:Helvetica;font-weight:bold;font-size:14px;text-align:left;"
+	height="20"
+	autoheight="true"
+	autowidth="auto"
+	xoffset="0"
+	yoffset="0"
+	padding="2"
+	selectable="false"
+	zorder="0"
+	visible="false"
+	html=""
+	edge="bottom"
+/>
+  <action name="CirclesControlBarbuildMenu">
+    
+    set(CirclesControlBarbutton_pos, 0);
+
+	set(CirclesControlBarbackgroundwidthwhenclosed, 40);
+    set(layer[CirclesControlBarbtn_hidecontrols].x, get(CirclesControlBarbutton_pos));
+    set(layer[CirclesControlBarbtn_showcontrols].x, get(CirclesControlBarbutton_pos));
+    inc(CirclesControlBarbutton_pos, 45);
+
+
+
+      if (device.desktop,
+        set(layer[CirclesControlBarbtn_display_help].x, get(CirclesControlBarbutton_pos));
+        set(layer[CirclesControlBarbtn_close_help].x  , get(CirclesControlBarbutton_pos));
+        inc(CirclesControlBarbutton_pos, 45);
+      );
+
+      if (device.fullscreensupport,
+        set(layer[CirclesControlBarbtn_openfs].x , get(CirclesControlBarbutton_pos));
+        set(layer[CirclesControlBarbtn_closefs].x, get(CirclesControlBarbutton_pos));
+        inc(CirclesControlBarbutton_pos, 45);
+      );
+
+
+
+      set(layer[CirclesControlBarbtn_autorotate_on].x , get(CirclesControlBarbutton_pos));
+      set(layer[CirclesControlBarbtn_autorotate_off].x, get(CirclesControlBarbutton_pos));
+      inc(CirclesControlBarbutton_pos, 45);
+
+
+
+    if (device.desktop,
+      set(layer[CirclesControlBarbtn_ctrlmode_drag_to].x, get(CirclesControlBarbutton_pos));
+      set(layer[CirclesControlBarbtn_ctrlmode_move_to].x, get(CirclesControlBarbutton_pos));
+      inc(CirclesControlBarbutton_pos, 45);
+    );
+
+
+
+
+
+      if (device.desktop,
+        set(layer[CirclesControlBarbtn_right].x, get(CirclesControlBarbutton_pos));
+        inc(CirclesControlBarbutton_pos, 45);
+        set(layer[CirclesControlBarbtn_left].x, get(CirclesControlBarbutton_pos));
+        inc(CirclesControlBarbutton_pos, 45);
+      );
+
+      if (device.desktop,
+        set(layer[CirclesControlBarbtn_down].x, get(CirclesControlBarbutton_pos));
+        inc(CirclesControlBarbutton_pos, 45);
+        set(layer[CirclesControlBarbtn_up].x, get(CirclesControlBarbutton_pos));
+        inc(CirclesControlBarbutton_pos, 45);
+      );
+
+      if (device.desktop,
+        set(layer[CirclesControlBarbtn_out].x, get(CirclesControlBarbutton_pos));
+        inc(CirclesControlBarbutton_pos, 45);
+        set(layer[CirclesControlBarbtn_in].x, get(CirclesControlBarbutton_pos));
+        inc(CirclesControlBarbutton_pos, 45);
+      );
+
+    if (scene.count GT 1,
+        set(layer[CirclesControlBarbtn_next_pano].x, get(CirclesControlBarbutton_pos));
+        inc(CirclesControlBarbutton_pos, 45);
+        set(layer[CirclesControlBarbtn_prev_pano].x, get(CirclesControlBarbutton_pos));
+        inc(CirclesControlBarbutton_pos, 45);
+      );
+
+
+
+      dec(CirclesControlBarbutton_pos, 5);
+
+      set(CirclesControlBarbackgroundwidthwhenopened, get(CirclesControlBarbutton_pos));
+
+
+    
+      set(layer[CirclesControlBar_menu_bg].width, get(CirclesControlBarbackgroundwidthwhenopened));
+	
+	
+	
+    </action>
+
+	<events name="CirclesControlBarStartTourEvents" onTourStart="CirclesControlBarCallOnStartTour();" keep="true" />
+	
+	<action name="CirclesControlBarCallOnStartTour">
+		
+		CirclesControlBarshowMenuControls();
+	</action>
+
+
+
+<!-- ********** -->
+<!-- Toggle Button - Scene specific -->
+<!-- id : togglebuttonpanospecific -->
+<!-- ********** -->
+
+
+
+  <layer name="togglebuttonpanospecific"
+         keep="true"
+         url="%FIRSTXML%/graphics/togglebuttonpanoramaspecific/button_zapustit-audiogid.png" 
+         align="bottomleft"
+         x="10"
+         y="10"
+         zorder="3"
+         state="true"
+         onclick="togglebuttonpanospecificOnClick"
+		 used_for_hotspots="false"
+         alpha="0.7"
+         onover="tween(scale, 1.2,0.5,easeOutQuad);tween(alpha,1.0,0.5,easeOutQuad);"
+         onout="tween(scale, 1.0,0.5,easeOutQuad);tween(alpha,0.7,0.5,easeOutQuad);"
+         visible="false"
+         />
+
+  <action name="togglebuttonpanospecificOnClick">
+    if (state,
+      set(state, false);playTourSounds();
+
+
+     ,
+      set(state, true);stopTourSounds();
+
+
+    );
+  </action>
+
+  <events name="togglebuttonpanospecificevents" 
+    onTourStart="showtogglebuttonpanospecific();"
+    hidetourcontrols="hidetogglebuttonpanospecific();" 
+    showtourcontrols="showtogglebuttonpanospecific();" 
+    keep="true" />
+  <action name="hidetogglebuttonpanospecific">set(layer[togglebuttonpanospecific].visible, false);</action>
+  <action name="showtogglebuttonpanospecific">
+    set(displaytheplugin_togglebuttonpanospecific, false);
+    if (tour_displaycontrols,
+    set(displaytheplugin_togglebuttonpanospecific, true);
+    );
+    if (displaytheplugin_togglebuttonpanospecific,
+      set(layer[togglebuttonpanospecific].visible, true);
+    ,
+      hidetogglebuttonpanospecific();
+    );
+  </action>
+
+
+<!-- ********** -->
+<!-- Website Box -->
+<!-- id : websiteViewer -->
+<!-- ********** -->
+
+<ptplugin name="websiteViewer" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="container_auto_size" value="false" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="000000" type="string" />
+		<option name="container_alpha" value="0.50000762951094835" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="2" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="title_position" value="top" type="string" />
+		<option name="title_font" value="Verdana" type="string" />
+		<option name="title_size" value="14" type="int" />
+		<option name="title_weight" value="normal" type="string" />
+		<option name="title_style" value="normal" type="string" />
+		<option name="title_decoration" value="none" type="string" />
+		<option name="title_color" value="000000" type="string" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="iframe_scrolling" value="auto" type="string" />
+		<option name="iframe_default_width" value="1100" type="int" />
+		<option name="iframe_default_height" value="800" type="int" />
+		<option name="iframe_devices_width" value="1100" type="int" />
+		<option name="iframe_devices_height" value="800" type="int" />
+		<option name="force_ios_scrolling" value="true" type="bool" />
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="websiteViewerfullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="websiteViewerclose_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_websiteViewer')" type="string" />
+		<option name="zorder" value="4" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_websiteViewer">
+	set(ptplugin[websiteViewer].jsready, true);
+</action>
+
+<action name="openWebsite_websiteViewer">
+	ifnot(ptplugin[websiteViewer].isOpen,
+		set(ptplugin[websiteViewer].isOpen, true);
+		set(ptplugin[websiteViewer].doNotDeleteMe, false);
+		getmessage(websiteViewer_boxurl, %1);
+		txtadd(websiteViewer_boxurl, ?iframe=true);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(websiteViewer, loadSingleArrayItem, get(websiteViewer_boxurl), %2));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if('%1' != websiteViewer_boxurl,
+			closeKolorBox_websiteViewer();
+			delayedcall(0.3,openWebsite_websiteViewer(%1,%2););
+		);
+	);
+</action>
+
+<action name="toggleWebsite_websiteViewer">
+	js(invokePluginFunction(websiteViewer, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_websiteViewer">
+	js(invokePluginFunction(websiteViewer, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_websiteViewer">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[websiteViewer].isOpen, false);
+</action>
+
+<action name="changeLanguage_websiteViewer">
+	if(ptplugin[websiteViewer].jsready,
+		stopdelayedcall(delay_websiteViewer);
+		js(invokePluginFunction(websiteViewer, changeLanguage));
+	,
+		delayedcall(delay_websiteViewer, 0.1, changeLanguage_websiteViewer(););
+	);
+</action>
+
+<events name="kolorBoxEvents_websiteViewer" 
+	keep="true"
+	changetourlanguage="changeLanguage_websiteViewer();"
+	/>
+
+<!-- ********** -->
+<!-- 1_1в -->
+<!-- id : gallery -->
+<!-- ********** -->
+
+<ptplugin name="gallery" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="galleryplay_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallerynavprev_text" type="string" />
+		<option name="navnext_text" value="gallerynavnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="galleryfullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="galleryclose_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery')" type="string" />
+		<option name="zorder" value="5" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title0" caption="gallerypicture_caption0" value="indexdata/graphics/gallery/d399f020.jpg"/>
+		<item name="item_2" title="gallerypicture_title1" caption="gallerypicture_caption1" value="indexdata/graphics/gallery/_181_123_65.jpg"/>
+		<item name="item_3" title="gallerypicture_title2" caption="gallerypicture_caption2" value="indexdata/graphics/gallery/_1088_10861085_713399_1.jpg"/>
+		<item name="item_4" title="gallerypicture_title3" caption="gallerypicture_caption3" value="indexdata/graphics/gallery/_1088_10861085_713399_2.jpg"/>
+		<item name="item_5" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery/_143_2_1373_159.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery">
+	set(ptplugin[gallery].jsready, true);
+</action>
+
+<action name="showGallery_gallery">
+	ifnot(ptplugin[gallery].isOpen,
+		set(ptplugin[gallery].isOpen, true);
+		set(ptplugin[gallery].doNotDeleteMe, false);
+		set(gallery_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery_boxurl,
+			closeKolorBox_gallery();
+			delayedcall(0.3,showGallery_gallery(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery">
+	js(invokePluginFunction(gallery, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery">
+	js(invokePluginFunction(gallery, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery">
+	if(ptplugin[gallery].jsready,
+		js(invokePluginFunction(gallery, changeLanguage));
+	,
+		delayedcall(delay_gallery, 0.1, changeLanguage_gallery(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery();"
+	/>
+
+<!-- ********** -->
+<!-- 1_1с -->
+<!-- id : gallery1 -->
+<!-- ********** -->
+
+<ptplugin name="gallery1" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery1play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery1navprev_text" type="string" />
+		<option name="navnext_text" value="gallery1navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery1fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery1close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery1')" type="string" />
+		<option name="zorder" value="6" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery1/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery1">
+	set(ptplugin[gallery1].jsready, true);
+</action>
+
+<action name="showGallery_gallery1">
+	ifnot(ptplugin[gallery1].isOpen,
+		set(ptplugin[gallery1].isOpen, true);
+		set(ptplugin[gallery1].doNotDeleteMe, false);
+		set(gallery1_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery1, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery1_boxurl,
+			closeKolorBox_gallery1();
+			delayedcall(0.3,showGallery_gallery1(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery1">
+	js(invokePluginFunction(gallery1, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery1">
+	js(invokePluginFunction(gallery1, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery1">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery1].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery1">
+	if(ptplugin[gallery1].jsready,
+		js(invokePluginFunction(gallery1, changeLanguage));
+	,
+		delayedcall(delay_gallery1, 0.1, changeLanguage_gallery1(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery1" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery1();"
+	/>
+
+<!-- ********** -->
+<!-- 1_2в -->
+<!-- id : gallery2 -->
+<!-- ********** -->
+
+<ptplugin name="gallery2" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery2play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery2navprev_text" type="string" />
+		<option name="navnext_text" value="gallery2navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery2fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery2close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery2')" type="string" />
+		<option name="zorder" value="7" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery2/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery2">
+	set(ptplugin[gallery2].jsready, true);
+</action>
+
+<action name="showGallery_gallery2">
+	ifnot(ptplugin[gallery2].isOpen,
+		set(ptplugin[gallery2].isOpen, true);
+		set(ptplugin[gallery2].doNotDeleteMe, false);
+		set(gallery2_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery2, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery2_boxurl,
+			closeKolorBox_gallery2();
+			delayedcall(0.3,showGallery_gallery2(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery2">
+	js(invokePluginFunction(gallery2, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery2">
+	js(invokePluginFunction(gallery2, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery2">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery2].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery2">
+	if(ptplugin[gallery2].jsready,
+		js(invokePluginFunction(gallery2, changeLanguage));
+	,
+		delayedcall(delay_gallery2, 0.1, changeLanguage_gallery2(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery2" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery2();"
+	/>
+
+<!-- ********** -->
+<!-- 1_2с -->
+<!-- id : gallery3 -->
+<!-- ********** -->
+
+<ptplugin name="gallery3" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery3play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery3navprev_text" type="string" />
+		<option name="navnext_text" value="gallery3navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery3fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery3close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery3')" type="string" />
+		<option name="zorder" value="8" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery3/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery3">
+	set(ptplugin[gallery3].jsready, true);
+</action>
+
+<action name="showGallery_gallery3">
+	ifnot(ptplugin[gallery3].isOpen,
+		set(ptplugin[gallery3].isOpen, true);
+		set(ptplugin[gallery3].doNotDeleteMe, false);
+		set(gallery3_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery3, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery3_boxurl,
+			closeKolorBox_gallery3();
+			delayedcall(0.3,showGallery_gallery3(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery3">
+	js(invokePluginFunction(gallery3, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery3">
+	js(invokePluginFunction(gallery3, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery3">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery3].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery3">
+	if(ptplugin[gallery3].jsready,
+		js(invokePluginFunction(gallery3, changeLanguage));
+	,
+		delayedcall(delay_gallery3, 0.1, changeLanguage_gallery3(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery3" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery3();"
+	/>
+
+<!-- ********** -->
+<!-- 1_3в -->
+<!-- id : gallery4 -->
+<!-- ********** -->
+
+<ptplugin name="gallery4" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery4play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery4navprev_text" type="string" />
+		<option name="navnext_text" value="gallery4navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery4fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery4close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery4')" type="string" />
+		<option name="zorder" value="9" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery4/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery4">
+	set(ptplugin[gallery4].jsready, true);
+</action>
+
+<action name="showGallery_gallery4">
+	ifnot(ptplugin[gallery4].isOpen,
+		set(ptplugin[gallery4].isOpen, true);
+		set(ptplugin[gallery4].doNotDeleteMe, false);
+		set(gallery4_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery4, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery4_boxurl,
+			closeKolorBox_gallery4();
+			delayedcall(0.3,showGallery_gallery4(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery4">
+	js(invokePluginFunction(gallery4, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery4">
+	js(invokePluginFunction(gallery4, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery4">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery4].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery4">
+	if(ptplugin[gallery4].jsready,
+		js(invokePluginFunction(gallery4, changeLanguage));
+	,
+		delayedcall(delay_gallery4, 0.1, changeLanguage_gallery4(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery4" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery4();"
+	/>
+
+<!-- ********** -->
+<!-- 1_3с -->
+<!-- id : gallery5 -->
+<!-- ********** -->
+
+<ptplugin name="gallery5" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery5play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery5navprev_text" type="string" />
+		<option name="navnext_text" value="gallery5navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery5fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery5close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery5')" type="string" />
+		<option name="zorder" value="10" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery5/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery5">
+	set(ptplugin[gallery5].jsready, true);
+</action>
+
+<action name="showGallery_gallery5">
+	ifnot(ptplugin[gallery5].isOpen,
+		set(ptplugin[gallery5].isOpen, true);
+		set(ptplugin[gallery5].doNotDeleteMe, false);
+		set(gallery5_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery5, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery5_boxurl,
+			closeKolorBox_gallery5();
+			delayedcall(0.3,showGallery_gallery5(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery5">
+	js(invokePluginFunction(gallery5, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery5">
+	js(invokePluginFunction(gallery5, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery5">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery5].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery5">
+	if(ptplugin[gallery5].jsready,
+		js(invokePluginFunction(gallery5, changeLanguage));
+	,
+		delayedcall(delay_gallery5, 0.1, changeLanguage_gallery5(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery5" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery5();"
+	/>
+
+<!-- ********** -->
+<!-- 1_4в -->
+<!-- id : gallery6 -->
+<!-- ********** -->
+
+<ptplugin name="gallery6" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery6play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery6navprev_text" type="string" />
+		<option name="navnext_text" value="gallery6navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery6fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery6close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery6')" type="string" />
+		<option name="zorder" value="11" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery6/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery6">
+	set(ptplugin[gallery6].jsready, true);
+</action>
+
+<action name="showGallery_gallery6">
+	ifnot(ptplugin[gallery6].isOpen,
+		set(ptplugin[gallery6].isOpen, true);
+		set(ptplugin[gallery6].doNotDeleteMe, false);
+		set(gallery6_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery6, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery6_boxurl,
+			closeKolorBox_gallery6();
+			delayedcall(0.3,showGallery_gallery6(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery6">
+	js(invokePluginFunction(gallery6, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery6">
+	js(invokePluginFunction(gallery6, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery6">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery6].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery6">
+	if(ptplugin[gallery6].jsready,
+		js(invokePluginFunction(gallery6, changeLanguage));
+	,
+		delayedcall(delay_gallery6, 0.1, changeLanguage_gallery6(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery6" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery6();"
+	/>
+
+<!-- ********** -->
+<!-- 1_4с -->
+<!-- id : gallery7 -->
+<!-- ********** -->
+
+<ptplugin name="gallery7" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery7play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery7navprev_text" type="string" />
+		<option name="navnext_text" value="gallery7navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery7fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery7close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery7')" type="string" />
+		<option name="zorder" value="12" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery7/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery7">
+	set(ptplugin[gallery7].jsready, true);
+</action>
+
+<action name="showGallery_gallery7">
+	ifnot(ptplugin[gallery7].isOpen,
+		set(ptplugin[gallery7].isOpen, true);
+		set(ptplugin[gallery7].doNotDeleteMe, false);
+		set(gallery7_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery7, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery7_boxurl,
+			closeKolorBox_gallery7();
+			delayedcall(0.3,showGallery_gallery7(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery7">
+	js(invokePluginFunction(gallery7, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery7">
+	js(invokePluginFunction(gallery7, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery7">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery7].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery7">
+	if(ptplugin[gallery7].jsready,
+		js(invokePluginFunction(gallery7, changeLanguage));
+	,
+		delayedcall(delay_gallery7, 0.1, changeLanguage_gallery7(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery7" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery7();"
+	/>
+
+<!-- ********** -->
+<!-- 1_5в -->
+<!-- id : gallery8 -->
+<!-- ********** -->
+
+<ptplugin name="gallery8" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery8play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery8navprev_text" type="string" />
+		<option name="navnext_text" value="gallery8navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery8fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery8close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery8')" type="string" />
+		<option name="zorder" value="13" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery8/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery8">
+	set(ptplugin[gallery8].jsready, true);
+</action>
+
+<action name="showGallery_gallery8">
+	ifnot(ptplugin[gallery8].isOpen,
+		set(ptplugin[gallery8].isOpen, true);
+		set(ptplugin[gallery8].doNotDeleteMe, false);
+		set(gallery8_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery8, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery8_boxurl,
+			closeKolorBox_gallery8();
+			delayedcall(0.3,showGallery_gallery8(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery8">
+	js(invokePluginFunction(gallery8, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery8">
+	js(invokePluginFunction(gallery8, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery8">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery8].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery8">
+	if(ptplugin[gallery8].jsready,
+		js(invokePluginFunction(gallery8, changeLanguage));
+	,
+		delayedcall(delay_gallery8, 0.1, changeLanguage_gallery8(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery8" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery8();"
+	/>
+
+<!-- ********** -->
+<!-- 1_5с -->
+<!-- id : gallery9 -->
+<!-- ********** -->
+
+<ptplugin name="gallery9" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery9play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery9navprev_text" type="string" />
+		<option name="navnext_text" value="gallery9navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery9fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery9close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery9')" type="string" />
+		<option name="zorder" value="14" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery9/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery9">
+	set(ptplugin[gallery9].jsready, true);
+</action>
+
+<action name="showGallery_gallery9">
+	ifnot(ptplugin[gallery9].isOpen,
+		set(ptplugin[gallery9].isOpen, true);
+		set(ptplugin[gallery9].doNotDeleteMe, false);
+		set(gallery9_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery9, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery9_boxurl,
+			closeKolorBox_gallery9();
+			delayedcall(0.3,showGallery_gallery9(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery9">
+	js(invokePluginFunction(gallery9, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery9">
+	js(invokePluginFunction(gallery9, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery9">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery9].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery9">
+	if(ptplugin[gallery9].jsready,
+		js(invokePluginFunction(gallery9, changeLanguage));
+	,
+		delayedcall(delay_gallery9, 0.1, changeLanguage_gallery9(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery9" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery9();"
+	/>
+
+<!-- ********** -->
+<!-- 1_6в -->
+<!-- id : gallery10 -->
+<!-- ********** -->
+
+<ptplugin name="gallery10" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery10play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery10navprev_text" type="string" />
+		<option name="navnext_text" value="gallery10navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery10fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery10close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery10')" type="string" />
+		<option name="zorder" value="15" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery10/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery10">
+	set(ptplugin[gallery10].jsready, true);
+</action>
+
+<action name="showGallery_gallery10">
+	ifnot(ptplugin[gallery10].isOpen,
+		set(ptplugin[gallery10].isOpen, true);
+		set(ptplugin[gallery10].doNotDeleteMe, false);
+		set(gallery10_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery10, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery10_boxurl,
+			closeKolorBox_gallery10();
+			delayedcall(0.3,showGallery_gallery10(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery10">
+	js(invokePluginFunction(gallery10, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery10">
+	js(invokePluginFunction(gallery10, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery10">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery10].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery10">
+	if(ptplugin[gallery10].jsready,
+		js(invokePluginFunction(gallery10, changeLanguage));
+	,
+		delayedcall(delay_gallery10, 0.1, changeLanguage_gallery10(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery10" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery10();"
+	/>
+
+<!-- ********** -->
+<!-- 1_6с -->
+<!-- id : gallery11 -->
+<!-- ********** -->
+
+<ptplugin name="gallery11" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery11play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery11navprev_text" type="string" />
+		<option name="navnext_text" value="gallery11navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery11fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery11close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery11')" type="string" />
+		<option name="zorder" value="16" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery11/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery11">
+	set(ptplugin[gallery11].jsready, true);
+</action>
+
+<action name="showGallery_gallery11">
+	ifnot(ptplugin[gallery11].isOpen,
+		set(ptplugin[gallery11].isOpen, true);
+		set(ptplugin[gallery11].doNotDeleteMe, false);
+		set(gallery11_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery11, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery11_boxurl,
+			closeKolorBox_gallery11();
+			delayedcall(0.3,showGallery_gallery11(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery11">
+	js(invokePluginFunction(gallery11, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery11">
+	js(invokePluginFunction(gallery11, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery11">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery11].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery11">
+	if(ptplugin[gallery11].jsready,
+		js(invokePluginFunction(gallery11, changeLanguage));
+	,
+		delayedcall(delay_gallery11, 0.1, changeLanguage_gallery11(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery11" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery11();"
+	/>
+
+<!-- ********** -->
+<!-- 1_7в -->
+<!-- id : gallery12 -->
+<!-- ********** -->
+
+<ptplugin name="gallery12" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery12play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery12navprev_text" type="string" />
+		<option name="navnext_text" value="gallery12navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery12fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery12close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery12')" type="string" />
+		<option name="zorder" value="17" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery12/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery12">
+	set(ptplugin[gallery12].jsready, true);
+</action>
+
+<action name="showGallery_gallery12">
+	ifnot(ptplugin[gallery12].isOpen,
+		set(ptplugin[gallery12].isOpen, true);
+		set(ptplugin[gallery12].doNotDeleteMe, false);
+		set(gallery12_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery12, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery12_boxurl,
+			closeKolorBox_gallery12();
+			delayedcall(0.3,showGallery_gallery12(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery12">
+	js(invokePluginFunction(gallery12, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery12">
+	js(invokePluginFunction(gallery12, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery12">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery12].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery12">
+	if(ptplugin[gallery12].jsready,
+		js(invokePluginFunction(gallery12, changeLanguage));
+	,
+		delayedcall(delay_gallery12, 0.1, changeLanguage_gallery12(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery12" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery12();"
+	/>
+
+<!-- ********** -->
+<!-- 1_7с -->
+<!-- id : gallery13 -->
+<!-- ********** -->
+
+<ptplugin name="gallery13" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery13play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery13navprev_text" type="string" />
+		<option name="navnext_text" value="gallery13navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery13fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery13close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery13')" type="string" />
+		<option name="zorder" value="18" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery13/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery13">
+	set(ptplugin[gallery13].jsready, true);
+</action>
+
+<action name="showGallery_gallery13">
+	ifnot(ptplugin[gallery13].isOpen,
+		set(ptplugin[gallery13].isOpen, true);
+		set(ptplugin[gallery13].doNotDeleteMe, false);
+		set(gallery13_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery13, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery13_boxurl,
+			closeKolorBox_gallery13();
+			delayedcall(0.3,showGallery_gallery13(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery13">
+	js(invokePluginFunction(gallery13, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery13">
+	js(invokePluginFunction(gallery13, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery13">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery13].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery13">
+	if(ptplugin[gallery13].jsready,
+		js(invokePluginFunction(gallery13, changeLanguage));
+	,
+		delayedcall(delay_gallery13, 0.1, changeLanguage_gallery13(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery13" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery13();"
+	/>
+
+<!-- ********** -->
+<!-- 1_8в -->
+<!-- id : gallery14 -->
+<!-- ********** -->
+
+<ptplugin name="gallery14" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery14play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery14navprev_text" type="string" />
+		<option name="navnext_text" value="gallery14navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery14fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery14close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery14')" type="string" />
+		<option name="zorder" value="19" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery14/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery14">
+	set(ptplugin[gallery14].jsready, true);
+</action>
+
+<action name="showGallery_gallery14">
+	ifnot(ptplugin[gallery14].isOpen,
+		set(ptplugin[gallery14].isOpen, true);
+		set(ptplugin[gallery14].doNotDeleteMe, false);
+		set(gallery14_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery14, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery14_boxurl,
+			closeKolorBox_gallery14();
+			delayedcall(0.3,showGallery_gallery14(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery14">
+	js(invokePluginFunction(gallery14, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery14">
+	js(invokePluginFunction(gallery14, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery14">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery14].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery14">
+	if(ptplugin[gallery14].jsready,
+		js(invokePluginFunction(gallery14, changeLanguage));
+	,
+		delayedcall(delay_gallery14, 0.1, changeLanguage_gallery14(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery14" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery14();"
+	/>
+
+<!-- ********** -->
+<!-- 1_8с -->
+<!-- id : gallery15 -->
+<!-- ********** -->
+
+<ptplugin name="gallery15" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery15play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery15navprev_text" type="string" />
+		<option name="navnext_text" value="gallery15navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery15fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery15close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery15')" type="string" />
+		<option name="zorder" value="20" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery15/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery15">
+	set(ptplugin[gallery15].jsready, true);
+</action>
+
+<action name="showGallery_gallery15">
+	ifnot(ptplugin[gallery15].isOpen,
+		set(ptplugin[gallery15].isOpen, true);
+		set(ptplugin[gallery15].doNotDeleteMe, false);
+		set(gallery15_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery15, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery15_boxurl,
+			closeKolorBox_gallery15();
+			delayedcall(0.3,showGallery_gallery15(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery15">
+	js(invokePluginFunction(gallery15, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery15">
+	js(invokePluginFunction(gallery15, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery15">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery15].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery15">
+	if(ptplugin[gallery15].jsready,
+		js(invokePluginFunction(gallery15, changeLanguage));
+	,
+		delayedcall(delay_gallery15, 0.1, changeLanguage_gallery15(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery15" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery15();"
+	/>
+
+<!-- ********** -->
+<!-- 1_9с -->
+<!-- id : gallery16 -->
+<!-- ********** -->
+
+<ptplugin name="gallery16" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery16play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery16navprev_text" type="string" />
+		<option name="navnext_text" value="gallery16navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery16fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery16close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery16')" type="string" />
+		<option name="zorder" value="21" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery16/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery16">
+	set(ptplugin[gallery16].jsready, true);
+</action>
+
+<action name="showGallery_gallery16">
+	ifnot(ptplugin[gallery16].isOpen,
+		set(ptplugin[gallery16].isOpen, true);
+		set(ptplugin[gallery16].doNotDeleteMe, false);
+		set(gallery16_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery16, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery16_boxurl,
+			closeKolorBox_gallery16();
+			delayedcall(0.3,showGallery_gallery16(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery16">
+	js(invokePluginFunction(gallery16, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery16">
+	js(invokePluginFunction(gallery16, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery16">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery16].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery16">
+	if(ptplugin[gallery16].jsready,
+		js(invokePluginFunction(gallery16, changeLanguage));
+	,
+		delayedcall(delay_gallery16, 0.1, changeLanguage_gallery16(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery16" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery16();"
+	/>
+
+<!-- ********** -->
+<!-- 1_10с -->
+<!-- id : gallery17 -->
+<!-- ********** -->
+
+<ptplugin name="gallery17" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery17play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery17navprev_text" type="string" />
+		<option name="navnext_text" value="gallery17navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery17fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery17close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery17')" type="string" />
+		<option name="zorder" value="22" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery17/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery17">
+	set(ptplugin[gallery17].jsready, true);
+</action>
+
+<action name="showGallery_gallery17">
+	ifnot(ptplugin[gallery17].isOpen,
+		set(ptplugin[gallery17].isOpen, true);
+		set(ptplugin[gallery17].doNotDeleteMe, false);
+		set(gallery17_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery17, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery17_boxurl,
+			closeKolorBox_gallery17();
+			delayedcall(0.3,showGallery_gallery17(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery17">
+	js(invokePluginFunction(gallery17, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery17">
+	js(invokePluginFunction(gallery17, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery17">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery17].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery17">
+	if(ptplugin[gallery17].jsready,
+		js(invokePluginFunction(gallery17, changeLanguage));
+	,
+		delayedcall(delay_gallery17, 0.1, changeLanguage_gallery17(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery17" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery17();"
+	/>
+
+<!-- ********** -->
+<!-- 2_ -->
+<!-- id : gallery18 -->
+<!-- ********** -->
+
+<ptplugin name="gallery18" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery18play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery18navprev_text" type="string" />
+		<option name="navnext_text" value="gallery18navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery18fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery18close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery18')" type="string" />
+		<option name="zorder" value="23" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery18/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery18">
+	set(ptplugin[gallery18].jsready, true);
+</action>
+
+<action name="showGallery_gallery18">
+	ifnot(ptplugin[gallery18].isOpen,
+		set(ptplugin[gallery18].isOpen, true);
+		set(ptplugin[gallery18].doNotDeleteMe, false);
+		set(gallery18_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery18, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery18_boxurl,
+			closeKolorBox_gallery18();
+			delayedcall(0.3,showGallery_gallery18(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery18">
+	js(invokePluginFunction(gallery18, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery18">
+	js(invokePluginFunction(gallery18, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery18">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery18].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery18">
+	if(ptplugin[gallery18].jsready,
+		js(invokePluginFunction(gallery18, changeLanguage));
+	,
+		delayedcall(delay_gallery18, 0.1, changeLanguage_gallery18(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery18" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery18();"
+	/>
+
+<!-- ********** -->
+<!-- 2 -->
+<!-- id : gallery19 -->
+<!-- ********** -->
+
+<ptplugin name="gallery19" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery19play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery19navprev_text" type="string" />
+		<option name="navnext_text" value="gallery19navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery19fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery19close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery19')" type="string" />
+		<option name="zorder" value="24" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery19/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery19">
+	set(ptplugin[gallery19].jsready, true);
+</action>
+
+<action name="showGallery_gallery19">
+	ifnot(ptplugin[gallery19].isOpen,
+		set(ptplugin[gallery19].isOpen, true);
+		set(ptplugin[gallery19].doNotDeleteMe, false);
+		set(gallery19_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery19, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery19_boxurl,
+			closeKolorBox_gallery19();
+			delayedcall(0.3,showGallery_gallery19(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery19">
+	js(invokePluginFunction(gallery19, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery19">
+	js(invokePluginFunction(gallery19, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery19">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery19].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery19">
+	if(ptplugin[gallery19].jsready,
+		js(invokePluginFunction(gallery19, changeLanguage));
+	,
+		delayedcall(delay_gallery19, 0.1, changeLanguage_gallery19(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery19" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery19();"
+	/>
+
+<!-- ********** -->
+<!-- 2 -->
+<!-- id : gallery20 -->
+<!-- ********** -->
+
+<ptplugin name="gallery20" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="item_border_alpha" value="1" type="float" />
+		
+		<option name="title_displayed" value="false" type="bool" />
+		
+		<option name="caption_displayed" value="true" type="bool" />
+		<option name="caption_position" value="right" type="string" />
+		<option name="caption_font" value="Montserrat Alternates SemiBold" type="string" />
+		<option name="caption_size" value="14" type="int" />
+		<option name="caption_weight" value="bold" type="string" />
+		<option name="caption_style" value="normal" type="string" />
+		<option name="caption_decoration" value="none" type="string" />
+		<option name="caption_color" value="272727" type="string" />
+		<option name="caption_width" value="250" type="int" />
+		<option name="caption_height" value="75" type="int" />
+		<option name="caption_textalign" value="left" type="string" />
+		
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" />
+		<option name="play_text" value="gallery20play_text" type="string" />
+
+
+
+
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" />
+		<option name="counter_color" value="666666" type="string" />
+		<option name="navprev_text" value="gallery20navprev_text" type="string" />
+		<option name="navnext_text" value="gallery20navnext_text" type="string" />
+
+
+
+
+		<option name="navigation_arrows" value="true" type="bool" />
+
+
+
+
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="gallery20fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="gallery20close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_gallery20')" type="string" />
+		<option name="zorder" value="25" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery20/"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_gallery20">
+	set(ptplugin[gallery20].jsready, true);
+</action>
+
+<action name="showGallery_gallery20">
+	ifnot(ptplugin[gallery20].isOpen,
+		set(ptplugin[gallery20].isOpen, true);
+		set(ptplugin[gallery20].doNotDeleteMe, false);
+		set(gallery20_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(gallery20, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if(%1 !== null AND %1 != gallery20_boxurl,
+			closeKolorBox_gallery20();
+			delayedcall(0.3,showGallery_gallery20(%1););
+		);
+	);
+</action>
+
+<action name="toggleGallery_gallery20">
+	js(invokePluginFunction(gallery20, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_gallery20">
+	js(invokePluginFunction(gallery20, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_gallery20">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[gallery20].isOpen, false);
+</action>
+
+<action name="changeLanguage_gallery20">
+	if(ptplugin[gallery20].jsready,
+		js(invokePluginFunction(gallery20, changeLanguage));
+	,
+		delayedcall(delay_gallery20, 0.1, changeLanguage_gallery20(););
+	);
+</action>
+
+<events name="kolorBoxEvents_gallery20" 
+	keep="true"
+	changetourlanguage="changeLanguage_gallery20();"
+	/>
+
+<!-- ********** -->
+<!-- Force Landscape on Mobile -->
+<!-- id : ForceLandscapeMobilePlugin -->
+<!-- ********** -->
+
+	<events name="mobileorientation_events" devices="mobile" keep="true" onresize="mobileorientation_portrait_mode_check();"/>
+
+	<action name="mobileorientation_portrait_mode_check" device="mobile">
+		div(aspect, stagewidth, stageheight);
+		if(aspect != lastaspect OR '%1' == 'true',
+			copy(lastaspect, aspect);
+			if(stagewidth GT stageheight,
+				tween(layer[mobileorientation_rotate_device_required].alpha, 0.0, 0.0);
+			,
+				tween(layer[mobileorientation_rotate_device_required].alpha, 1.0);
+				delayedcall(3.0, tween(layer[mobileorientation_rotate_device_required].alpha, 0.0, 1.0););
+			);
+		);
+	</action>	
+
+	<layer name="mobileorientation_rotate_device_required" keep="true" devices="mobile" 
+		url="%FIRSTXML%/graphics/rotate_device.png" width="80%" height="prop"
+		align="center" edge="center"
+		autoalpha="true" alpha="0.0"
+		enabled="false"
+		/>	
+<action name="viewControlMoveUp">
+	if(%1,
+		if(%2,
+			set(isfullvertical, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewvfov, panoview.vmax, panoview.vmin);
+				if (viewvfov == 180,
+					set(isfullvertical, true);
+				);
+			);
+			if(isfullvertical == false AND calc(view.vlookat-%2) LT view.vlookatmin,
+				moveto(get(view.hlookat), get(view.vlookatmin));
+			,
+				moveto(get(view.hlookat), calc(view.vlookat-%2));
+			);
+		,
+			set(vlookat_moveforce, -1);
+			delayedcall(0.1, viewControlMoveVertStop());
+		);
+	,
+		set(vlookat_moveforce, -1);
+	);
+</action>
+<action name="viewControlMoveDown">
+	if(%1,
+		if(%2,
+			set(isfullvertical, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewvfov, panoview.vmax, panoview.vmin);
+				if (viewvfov == 180,
+					set(isfullvertical, true);
+				);
+			);
+			if(sceneisfull360 == false AND calc(view.vlookat+%2) GT view.vlookatmax,
+				moveto(get(view.hlookat), get(view.vlookatmax));
+			,
+				moveto(get(view.hlookat), calc(view.vlookat+%2));
+			);
+		,
+			set(vlookat_moveforce, +1);
+			delayedcall(0.1, viewControlMoveVertStop());
+		);
+	,
+		set(vlookat_moveforce, +1);
+	);
+</action>
+<action name="viewControlMoveLeft">
+	if(%1,
+		if(%2,
+			set(isfullhorizontal, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewhfov, panoview.hmax, panoview.hmin);
+				if (viewhfov == 360,
+					set(isfullhorizontal, true);
+				);
+			);
+			if(isfullhorizontal == false AND calc(view.hlookat-%2) LT view.hlookatmin,
+				moveto(get(view.hlookatmin), get(view.vlookat));
+			,
+				moveto(calc(view.hlookat-%2), get(view.vlookat));
+			);
+		,
+			set(hlookat_moveforce, -1);
+			delayedcall(0.1, viewControlMoveHoriStop());
+		);
+	,
+		set(hlookat_moveforce, -1);
+	);
+</action>
+<action name="viewControlMoveRight">
+	if(%1,
+		if(%2,
+			set(isfullhorizontal, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewhfov, panoview.hmax, panoview.hmin);
+				if (viewhfov == 360,
+					set(isfullhorizontal, true);
+				);
+			);
+			if(isfullhorizontal == false AND calc(view.hlookat+%2) GT view.hlookatmax,
+				moveto(get(view.hlookatmax), get(view.vlookat));
+			,
+				moveto(calc(view.hlookat+%2), get(view.vlookat));
+			);
+		,
+			set(hlookat_moveforce, +1);
+			delayedcall(0.1, viewControlMoveHoriStop());
+			
+		);
+	,
+		set(hlookat_moveforce, +1);
+	);
+</action>
+<action name="viewControlMoveHoriStop">
+	set(hlookat_moveforce, 0);
+</action>
+<action name="viewControlMoveVertStop">
+	set(vlookat_moveforce, 0);
+</action>
+
+<action name="viewControlZoomIn">
+	if(%1,
+		if(%2,
+			if(%2 LT view.fovmin,
+				zoomto(get(view.fovmin));
+			,
+				if(%2 LT view.fov,
+					zoomto(%2);
+				);
+			);
+		,
+			set(fov_moveforce, -1);
+			delayedcall(0.1, viewControlZoomStop());
+		);
+	,
+		set(fov_moveforce, -1);
+	);
+</action>
+<action name="viewControlZoomOut">
+	if(%1,
+		if(%2,
+			if(%2 GT view.fovmax,
+				zoomto(get(view.fovmax));
+			,
+				if(%2 GT view.fov,
+					zoomto(%2);
+				);
+			);
+		,
+			set(fov_moveforce, +1);
+			delayedcall(0.1, viewControlZoomStop());
+		);
+	,
+		set(fov_moveforce, +1);
+	);
+</action>
+<action name="viewControlZoomStop">
+	set(fov_moveforce, 0);
+</action>
+
+  <!-- Hide / Show Controls -->
+  <action name="hideTourControls">set(tour_displaycontrols, false);events.dispatch(hidetourcontrols);</action>
+  <action name="showTourControls">set(tour_displaycontrols, true); events.dispatch(showtourcontrols);</action>
+
+
+  <!-- Fullscreen Management -->
+  <action name="exitFullScreen" devices="fullscreensupport">set(tour_fullscreen,false);js(setFullscreen(false));</action>
+  <action name="enterFullScreen" devices="fullscreensupport">set(tour_fullscreen,true);js(setFullscreen(true));</action>
+  <action name="switchFullScreen">if(tour_fullscreen,exitFullScreen();,enterFullScreen(););</action>
+
+  
+  <events name="krpanoExitFullscreenEvent"
+    onexitfullscreen="if(tour_fullscreen,exitFullScreenChangeEvent(););"
+    keep="true" />
+
+  <action name="exitFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,false);events.dispatch(onexitfullscreen);</action>
+  <action name="enterFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,true);events.dispatch(onenterfullscreen);</action>
+  <action name="exitFullScreenFallback">set(fullscreen,false);</action>
+  <action name="enterFullScreenFallback">set(fullscreen,true);</action>
+  
+  <action name="resizeFullScreenEvent">delayedcall(0,updatescreen(););</action>
+
+  <!-- Sounds Management -->
+
+  <action name="play3DLocalSounds">
+    if (xml.scene, if (scene[get(xml.scene)].haslocalsounds, playpanolocalsounds();););
+  </action>
+  <action name="stop3DLocalSounds">
+    if (xml.scene, if (scene[get(xml.scene)].haslocalsounds, stoppanolocalsounds();););
+  </action>
+  <action name="resume3DLocalSounds">
+    if (xml.scene, if (scene[get(xml.scene)].haslocalsounds, 
+      set(kill3dSoundOnResume, true);
+      if(layer[displayedStandardVideo],
+      if(layer[displayedStandardVideo].pausebgsound,
+      if(tour_current_played_video,
+        set(kill3dSoundOnResume, false);
+      );););
+      if(layer[webvideodisplay_player],
+      if(layer[webvideodisplay_player].pausebgsound,
+      if(tour_current_played_web_video,
+        set(kill3dSoundOnResume, false);
+      );););
+      if(tour_current_played_sound_pausesound,
+      if(tour_current_played_sound,
+        set(kill3dSoundOnResume, false);
+      ););
+      if(kill3dSoundOnResume,
+        resumepanolocalsounds();
+      );
+    ););
+  </action>
+  <action name="pause3DLocalSounds">
+    if (xml.scene, if (scene[get(xml.scene)].haslocalsounds, pausepanolocalsounds();););
+  </action>
+  <action name="set3DLocalSoundsVolume">
+    if (xml.scene, if (scene[get(xml.scene)].haslocalsounds, setpanolocalsoundsvolume();););
+  </action>
+  <action name="playTourSounds">
+    set(tour_soundson, true);events.dispatch(playtoursoundsevent);
+    resumeTourSoundsActions(true,true,true,true,true);
+  </action>
+  <action name="stopTourSounds">
+    set(tour_soundson, false);events.dispatch(stoptoursoundsevent);
+    pauseTourSoundsActions(true,true,true,true,true);
+  </action>
+  <action name="setTourSoundsVolume">
+    set(tour_soundsvolume, %1);events.dispatch(changetoursoundsevent);
+    set3DLocalSoundsVolume();
+  </action>
+  <action name="playTourSoundsActions">
+    if(%1,
+        play3DLocalSounds();
+    );
+  </action>
+  <action name="stopTourSoundsActions">
+    if(%1,
+      stop3DLocalSounds();
+    );
+    if(%3,
+      stopVideoActionsSounds();
+    );
+  </action>
+  <action name="resumeTourSoundsActions">
+    if(%1,
+        resume3DLocalSounds();
+    );
+    if(%3,
+      resumeVideoActionsSounds();
+    );
+  </action>
+  <action name="pauseTourSoundsActions">
+    if(%1,
+      pause3DLocalSounds();
+    );
+    if(%3,
+      pauseVideoActionsSounds();
+    );
+  </action>
+  <action name="stopVideoActionsSounds">
+    if(tour_current_played_video,
+      if(layer[displayedStandardVideo],
+        layer[displayedStandardVideo].stop();
+        removelayer(displayedStandardVideo);
+        if(layer[displayedStandardVideoOverlayButton], removelayer(displayedStandardVideoOverlayButton); );
+        if(layer[displayedStandardVideoOverlay], removelayer(displayedStandardVideoOverlay); );
+        delete(tour_current_played_video);
+        set(tour_current_played_video_state, 0);
+      );
+    );
+    if(tour_current_played_web_video,
+      displayWebVideoObjectClose();
+    );
+  </action>
+  <action name="resumeVideoActionsSounds">
+    if(tour_current_played_video,
+      set(resumeVideoActionsVerification, true);
+      if(tour_current_played_sound,
+        if(tour_current_played_video_state LT tour_current_played_sound_state,
+          set(resumeVideoActionsVerification, false);
+        );
+      );
+      if(resumeVideoActionsVerification,
+        if (tour_soundson,
+          if(device.flash OR (device.webgl AND !device.ios),
+            div(volume, tour_soundsvolume, 100);
+            set(layer[displayedStandardVideo].volume, get(volume));
+          ,
+            ifnot(device.ios,
+              js(kpanotour.Sounds.startVideosSounds(get(volume)));
+            ,
+              if(tour_soundsvolume GT 0,
+                set(layer[displayedStandardVideo].muted, false);
+              ,
+                set(layer[displayedStandardVideo].muted, true);
+              );
+            );
+          );
+        ,
+          if(device.flash OR (device.webgl AND !device.ios),
+            set(layer[displayedStandardVideo].volume, 0);
+          ,
+            ifnot(device.ios,
+              js(kpanotour.Sounds.stopVideosSounds());
+            ,
+              set(layer[displayedStandardVideo].muted, true);
+            );
+          );
+        );
+      );
+    );
+  </action>
+  <action name="pauseVideoActionsSounds">
+    if(tour_current_played_video,
+      if(device.flash OR (device.webgl AND !device.ios),
+        set(layer[displayedStandardVideo].volume, 0);
+      ,
+        ifnot(device.ios,
+          js(kpanotour.Sounds.stopVideosSounds());
+        ,
+          set(layer[displayedStandardVideo].muted, true);
+        );
+      );
+    );
+  </action>
+
+</krpano>
