@@ -259,7 +259,8 @@ function eventKrpanoLoaded (isWebVr) {
 	
 	}else{
 	
-	addKolorBox('gallery20');
+	addKolorBox('PdfViewer');
+addKolorBox('gallery20');
 addKolorBox('gallery19');
 addKolorBox('gallery18');
 addKolorBox('gallery17');
@@ -315,6 +316,7 @@ deleteKolorBox('gallery17');
 deleteKolorBox('gallery18');
 deleteKolorBox('gallery19');
 deleteKolorBox('gallery20');
+deleteKolorBox('PdfViewer');
 
 }
 

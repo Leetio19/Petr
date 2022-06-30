@@ -10,7 +10,7 @@
 
 
   <data name="ru_pano28_title"><![CDATA[Улица]]></data>
-  <data name="ru_spotpoint1448javascriptcalljsfunctioncall"><![CDATA[testing]]></data>
+  <data name="ru_spotpoint1448PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
 
 
   <data name="ru_pano10_title"><![CDATA[1]]></data>
@@ -82,6 +82,9 @@
 
 
   <data name="ru_pano12_title"><![CDATA[18]]></data>
+  <data name="ru_spotpoint1642PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="ru_spotpoint1643websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[./indexdata/sled/index.html]]></data>
+  <data name="ru_spotpoint1643websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
 
 
 
@@ -318,6 +321,8 @@
   <data name="ru_gallery20close_text"><![CDATA[Close]]></data>
   <data name="ru_gallerypicture_title4"><![CDATA[]]></data>
   <data name="ru_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="ru_PdfViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="ru_PdfViewerclose_text"><![CDATA[Close]]></data>
 
 
   <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>

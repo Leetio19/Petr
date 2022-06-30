@@ -27,23 +27,56 @@
 
 
     
-  <!-- Spot Style - Default Point Spot Style 1 -->
+  <!-- Spot Style - PDF Button -->
 
 
-  <style name="IconDefaultPointSpotStyle1"
-         url="%FIRSTXML%/spots/hotspot_image_user_defaultpoint1.png"
+  <style name="IconPDFButton"
+         url="%FIRSTXML%/spots/hotspot_information_sequence_user_defaultpoint1.png"
          visible="false"
+         frame="0"
+         lastframe="11"
+         framewidth="54"
+         frameheight="54"
+         stopspotsequence="false"
+         crop="0|0|54|54"
          edge="center"
-         onhover="onhoverIconDefaultPointSpotStyle1"
-         onout="onoutIconDefaultPointSpotStyle1"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIconPDFButton"
+         onout="onoutIconPDFButton"
 
          height="100"
          width="100"
          />
-  <action name="onhoverIconDefaultPointSpotStyle1">
+  <action name="onhoverIconPDFButton">
     showtooltip('hotspot');
   </action>
-  <action name="onoutIconDefaultPointSpotStyle1">
+  <action name="onoutIconPDFButton">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Галерея html -->
+
+
+  <style name="IconГалереяhtml"
+         url="%FIRSTXML%/spots/hotspot_image_user_defaultpoint2.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconГалереяhtml"
+         onout="onoutIconГалереяhtml"
+
+         height="100"
+         width="100"
+         />
+  <action name="onhoverIconГалереяhtml">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconГалереяhtml">
     hideTooltip();
 
 
@@ -1584,7 +1617,7 @@ if (device.desktop,
 		<option name="margin_y" value="0" type="int" />
 		<option name="external_padding" value="0" type="int" />
 		<option name="draggable_box" value="false" type="bool" />
-		<option name="container_auto_size" value="false" type="bool" />
+		<option name="container_auto_size" value="true" type="bool" />
 		<option name="container_width" value="100" type="int" />
 		<option name="container_width_unit" value="percent" type="string" />
 		<option name="container_height" value="100" type="int" />
@@ -4493,7 +4526,7 @@ if (device.desktop,
 	/>
 
 <!-- ********** -->
-<!-- 2 -->
+<!-- 3 -->
 <!-- id : gallery20 -->
 <!-- ********** -->
 
@@ -4658,6 +4691,142 @@ if (device.desktop,
 		autoalpha="true" alpha="0.0"
 		enabled="false"
 		/>	
+<!-- ********** -->
+<!-- PDF Box -->
+<!-- id : PdfViewer -->
+<!-- ********** -->
+
+<ptplugin name="PdfViewer" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="false" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="title_position" value="top" type="string" />
+		<option name="title_font" value="Verdana" type="string" />
+		<option name="title_size" value="14" type="int" />
+		<option name="title_weight" value="normal" type="string" />
+		<option name="title_style" value="normal" type="string" />
+		<option name="title_decoration" value="none" type="string" />
+		<option name="title_color" value="000000" type="string" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="PdfViewerfullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="PdfViewerclose_text" type="string" />
+
+		<option name="iframe_default_width" value="600" type="int" />
+		<option name="iframe_default_height" value="840" type="int" />
+		<option name="iframe_devices_width" value="1024" type="int" />
+		<option name="iframe_devices_height" value="5000" type="int" />
+		<option name="force_ios_scrolling" value="true" type="bool" />
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_PdfViewer')" type="string" />
+		<option name="zorder" value="27" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_PdfViewer">
+	set(ptplugin[PdfViewer].jsready, true);
+</action>
+
+<action name="openPDF_PdfViewer">
+	ifnot(ptplugin[PdfViewer].isOpen,
+		set(ptplugin[PdfViewer].isOpen, true);
+		set(ptplugin[PdfViewer].doNotDeleteMe, false);
+		set(PdfViewer_boxurl, %1);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(PdfViewer, loadSingleArrayItem, %1?iframe=true, %2));
+		events.dispatch(onremovedisplayedobject);
+	,
+		if('%1' != PdfViewer_boxurl,
+			closeKolorBox_PdfViewer();
+			delayedcall(0.3,openPDF_PdfViewer(%1,%2););
+		);
+	);
+</action>
+
+<action name="togglePDF_PdfViewer">
+	js(invokePluginFunction(PdfViewer, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_PdfViewer">
+	js(invokePluginFunction(PdfViewer, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback_PdfViewer">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[PdfViewer].isOpen, false);
+</action>
+
+<action name="changeLanguage_PdfViewer">
+	if(ptplugin[PdfViewer].jsready,
+		stopdelayedcall(delay_PdfViewer);
+		js(invokePluginFunction(PdfViewer, changeLanguage));
+	,
+		delayedcall(delay_PdfViewer, 0.1, changeLanguage_PdfViewer(););
+	);
+</action>
+
+<events name="kolorBoxEvents_PdfViewer" 
+	keep="true"
+	changetourlanguage="changeLanguage_PdfViewer();"
+	/>
+
+  <!-- Hide / Show Controls -->
+  <action name="hideTourControls">set(tour_displaycontrols, false);events.dispatch(hidetourcontrols);</action>
+  <action name="showTourControls">set(tour_displaycontrols, true); events.dispatch(showtourcontrols);</action>
+
+
+  <!-- Fullscreen Management -->
+  <action name="exitFullScreen" devices="fullscreensupport">set(tour_fullscreen,false);js(setFullscreen(false));</action>
+  <action name="enterFullScreen" devices="fullscreensupport">set(tour_fullscreen,true);js(setFullscreen(true));</action>
+  <action name="switchFullScreen">if(tour_fullscreen,exitFullScreen();,enterFullScreen(););</action>
+
+  
+  <events name="krpanoExitFullscreenEvent"
+    onexitfullscreen="if(tour_fullscreen,exitFullScreenChangeEvent(););"
+    keep="true" />
+
+  <action name="exitFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,false);events.dispatch(onexitfullscreen);</action>
+  <action name="enterFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,true);events.dispatch(onenterfullscreen);</action>
+  <action name="exitFullScreenFallback">set(fullscreen,false);</action>
+  <action name="enterFullScreenFallback">set(fullscreen,true);</action>
+  
+  <action name="resizeFullScreenEvent">delayedcall(0,updatescreen(););</action>
+
 <action name="viewControlMoveUp">
 	if(%1,
 		if(%2,
@@ -4757,68 +4926,6 @@ if (device.desktop,
 <action name="viewControlMoveVertStop">
 	set(vlookat_moveforce, 0);
 </action>
-
-<action name="viewControlZoomIn">
-	if(%1,
-		if(%2,
-			if(%2 LT view.fovmin,
-				zoomto(get(view.fovmin));
-			,
-				if(%2 LT view.fov,
-					zoomto(%2);
-				);
-			);
-		,
-			set(fov_moveforce, -1);
-			delayedcall(0.1, viewControlZoomStop());
-		);
-	,
-		set(fov_moveforce, -1);
-	);
-</action>
-<action name="viewControlZoomOut">
-	if(%1,
-		if(%2,
-			if(%2 GT view.fovmax,
-				zoomto(get(view.fovmax));
-			,
-				if(%2 GT view.fov,
-					zoomto(%2);
-				);
-			);
-		,
-			set(fov_moveforce, +1);
-			delayedcall(0.1, viewControlZoomStop());
-		);
-	,
-		set(fov_moveforce, +1);
-	);
-</action>
-<action name="viewControlZoomStop">
-	set(fov_moveforce, 0);
-</action>
-
-  <!-- Hide / Show Controls -->
-  <action name="hideTourControls">set(tour_displaycontrols, false);events.dispatch(hidetourcontrols);</action>
-  <action name="showTourControls">set(tour_displaycontrols, true); events.dispatch(showtourcontrols);</action>
-
-
-  <!-- Fullscreen Management -->
-  <action name="exitFullScreen" devices="fullscreensupport">set(tour_fullscreen,false);js(setFullscreen(false));</action>
-  <action name="enterFullScreen" devices="fullscreensupport">set(tour_fullscreen,true);js(setFullscreen(true));</action>
-  <action name="switchFullScreen">if(tour_fullscreen,exitFullScreen();,enterFullScreen(););</action>
-
-  
-  <events name="krpanoExitFullscreenEvent"
-    onexitfullscreen="if(tour_fullscreen,exitFullScreenChangeEvent(););"
-    keep="true" />
-
-  <action name="exitFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,false);events.dispatch(onexitfullscreen);</action>
-  <action name="enterFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,true);events.dispatch(onenterfullscreen);</action>
-  <action name="exitFullScreenFallback">set(fullscreen,false);</action>
-  <action name="enterFullScreenFallback">set(fullscreen,true);</action>
-  
-  <action name="resizeFullScreenEvent">delayedcall(0,updatescreen(););</action>
 
   <!-- Sounds Management -->
 
@@ -4963,5 +5070,45 @@ if (device.desktop,
       );
     );
   </action>
+
+<action name="viewControlZoomIn">
+	if(%1,
+		if(%2,
+			if(%2 LT view.fovmin,
+				zoomto(get(view.fovmin));
+			,
+				if(%2 LT view.fov,
+					zoomto(%2);
+				);
+			);
+		,
+			set(fov_moveforce, -1);
+			delayedcall(0.1, viewControlZoomStop());
+		);
+	,
+		set(fov_moveforce, -1);
+	);
+</action>
+<action name="viewControlZoomOut">
+	if(%1,
+		if(%2,
+			if(%2 GT view.fovmax,
+				zoomto(get(view.fovmax));
+			,
+				if(%2 GT view.fov,
+					zoomto(%2);
+				);
+			);
+		,
+			set(fov_moveforce, +1);
+			delayedcall(0.1, viewControlZoomStop());
+		);
+	,
+		set(fov_moveforce, +1);
+	);
+</action>
+<action name="viewControlZoomStop">
+	set(fov_moveforce, 0);
+</action>
 
 </krpano>
